@@ -1,0 +1,2638 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Band Sports HD">
+    <display-name lang="pt">Band Sports HD</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/bsp.png" />
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Band SP">
+    <display-name lang="pt">Band SP</display-name>
+    <icon src="https://www.lineup.tv.br/canais/1575919595.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="RECORD NEWS">
+    <display-name lang="pt">RECORD NEWS</display-name>
+    <icon src="https://www.lineup.tv.br/canais/1618175617.gif|https://www.lineup.tv.br/canais/1617431806.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Band News">
+    <display-name lang="pt">Band News</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/new.png" />
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Paramount Channel">
+    <display-name lang="pt">Paramount Channel</display-name>
+    <icon src="https://www.lineup.tv.br/canais/1614345136.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Cartoon Network">
+    <display-name lang="pt">Cartoon Network</display-name>
+    <icon src="https://www.lineup.tv.br/canais/1646691588.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Nickelodeon">
+    <display-name lang="pt">Nickelodeon</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/nic.png" />
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="History Channel">
+    <display-name lang="pt">History Channel</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Telecine Touch">
+    <display-name lang="pt">Telecine Touch</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/tc3.png" />
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Telecine Pipoca">
+    <display-name lang="pt">Telecine Pipoca</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/tc4.png" />
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <programme start="20230528094500 -0300" stop="20230528103000 -0300" channel="Band Sports HD">
+    <title lang="pt">Resenha do Galinho</title>
+  </programme>
+  <programme start="20230528103000 -0300" stop="20230528110000 -0300" channel="Band Sports HD">
+    <title lang="pt">The Golf Brasil</title>
+  </programme>
+  <programme start="20230528110000 -0300" stop="20230528123000 -0300" channel="Band Sports HD">
+    <title lang="pt">Yamalube R3 Cup</title>
+  </programme>
+  <programme start="20230528123000 -0300" stop="20230528133000 -0300" channel="Band Sports HD">
+    <title lang="pt">Campeonato Brasileiro de Motovelocidade: Moto 1000GP</title>
+  </programme>
+  <programme start="20230528133000 -0300" stop="20230528150000 -0300" channel="Band Sports HD">
+    <title lang="pt">Mit Cup: Etapa Indaiatuba</title>
+  </programme>
+  <programme start="20230528150000 -0300" stop="20230528170000 -0300" channel="Band Sports HD">
+    <title lang="pt">Fórmula 1: GP de Mônaco</title>
+  </programme>
+  <programme start="20230528170000 -0300" stop="20230528180000 -0300" channel="Band Sports HD">
+    <title lang="pt">Fórmula 2: GP de Mônaco</title>
+  </programme>
+  <programme start="20230528180000 -0300" stop="20230528184500 -0300" channel="Band Sports HD">
+    <title lang="pt">Bandsports News</title>
+  </programme>
+  <programme start="20230528184500 -0300" stop="20230528190000 -0300" channel="Band Sports HD">
+    <title lang="pt">Supermotor</title>
+  </programme>
+  <programme start="20230528190000 -0300" stop="20230528233000 -0300" channel="Band Sports HD">
+    <title lang="pt">Nascar Cup Series</title>
+  </programme>
+  <programme start="20230528233000 -0300" stop="20230529013000 -0300" channel="Band Sports HD">
+    <title lang="pt">Fórmula 1: GP de Mônaco</title>
+  </programme>
+  <programme start="20230529013000 -0300" stop="20230529024500 -0300" channel="Band Sports HD">
+    <title lang="pt">Fórmula 2: GP de Mônaco</title>
+  </programme>
+  <programme start="20230529024500 -0300" stop="20230529041500 -0300" channel="Band Sports HD">
+    <title lang="pt">Yamalube R3 Cup</title>
+  </programme>
+  <programme start="20230529041500 -0300" stop="20230529050000 -0300" channel="Band Sports HD">
+    <title lang="pt">Oléé</title>
+  </programme>
+  <programme start="20230529050000 -0300" stop="20230529060000 -0300" channel="Band Sports HD">
+    <title lang="pt">Campeonato Brasileiro de Motovelocidade: Moto 1000GP</title>
+  </programme>
+  <programme start="20230529060000 -0300" stop="20230529061500 -0300" channel="Band Sports HD">
+    <title lang="pt">F1 Academy</title>
+  </programme>
+  <programme start="20230529061500 -0300" stop="20230529080000 -0300" channel="Band Sports HD">
+    <title lang="pt">Stock Series: Etapa Tarumã</title>
+  </programme>
+  <programme start="20230529080000 -0300" stop="20230529090000 -0300" channel="Band Sports HD">
+    <title lang="pt">Doc. Bandsports</title>
+  </programme>
+  <programme start="20230529090000 -0300" stop="20230529110000 -0300" channel="Band Sports HD">
+    <title lang="pt">Campeonato Carioca: Friburguense x Maricá</title>
+  </programme>
+  <programme start="20230529110000 -0300" stop="20230529120000 -0300" channel="Band Sports HD">
+    <title lang="pt">Primeiro Tempo</title>
+  </programme>
+  <programme start="20230529120000 -0300" stop="20230529140000 -0300" channel="Band Sports HD">
+    <title lang="pt">G4</title>
+  </programme>
+  <programme start="20230529140000 -0300" stop="20230529150000 -0300" channel="Band Sports HD">
+    <title lang="pt">Esporte Agora</title>
+  </programme>
+  <programme start="20230529150000 -0300" stop="20230529163000 -0300" channel="Band Sports HD">
+    <title lang="pt">Stock Car: Etapa Tarumã</title>
+  </programme>
+  <programme start="20230529163000 -0300" stop="20230529170000 -0300" channel="Band Sports HD">
+    <title lang="pt">Acelerados</title>
+  </programme>
+  <programme start="20230529170000 -0300" stop="20230529180000 -0300" channel="Band Sports HD">
+    <title lang="pt">Os Donos da Bola</title>
+  </programme>
+  <programme start="20230529180000 -0300" stop="20230529194500 -0300" channel="Band Sports HD">
+    <title lang="pt">Bola Rolando</title>
+  </programme>
+  <programme start="20230529194500 -0300" stop="20230529200000 -0300" channel="Band Sports HD">
+    <title lang="pt">Bandsports News</title>
+  </programme>
+  <programme start="20230529200000 -0300" stop="20230529220000 -0300" channel="Band Sports HD">
+    <title lang="pt">Baita Amigos</title>
+  </programme>
+  <programme start="20230529220000 -0300" stop="20230529223000 -0300" channel="Band Sports HD">
+    <title lang="pt">Tour da Bola</title>
+  </programme>
+  <programme start="20230529223000 -0300" stop="20230529233000 -0300" channel="Band Sports HD">
+    <title lang="pt">Depois do Jogo</title>
+  </programme>
+  <programme start="20230529233000 -0300" stop="20230530000000 -0300" channel="Band Sports HD">
+    <title lang="pt">Oléé</title>
+  </programme>
+  <programme start="20230530000000 -0300" stop="20230530020000 -0300" channel="Band Sports HD">
+    <title lang="pt">Nascar Cup Series</title>
+  </programme>
+  <programme start="20230530020000 -0300" stop="20230530040000 -0300" channel="Band Sports HD">
+    <title lang="pt">Baita Amigos</title>
+  </programme>
+  <programme start="20230530040000 -0300" stop="20230530043000 -0300" channel="Band Sports HD">
+    <title lang="pt">Tour da Bola</title>
+  </programme>
+  <programme start="20230530043000 -0300" stop="20230530053000 -0300" channel="Band Sports HD">
+    <title lang="pt">Doc. Bandsports</title>
+  </programme>
+  <programme start="20230530053000 -0300" stop="20230530060000 -0300" channel="Band Sports HD">
+    <title lang="pt">Oléé</title>
+  </programme>
+  <programme start="20230530060000 -0300" stop="20230530070000 -0300" channel="Band Sports HD">
+    <title lang="pt">Depois do Jogo</title>
+  </programme>
+  <programme start="20230530070000 -0300" stop="20230530080000 -0300" channel="Band Sports HD">
+    <title lang="pt">Esporte Total</title>
+  </programme>
+  <programme start="20230530080000 -0300" stop="20230530100000 -0300" channel="Band Sports HD">
+    <title lang="pt">Baita Amigos</title>
+  </programme>
+  <programme start="20230530100000 -0300" stop="20230530110000 -0300" channel="Band Sports HD">
+    <title lang="pt">Depois do Jogo</title>
+  </programme>
+  <programme start="20230530110000 -0300" stop="20230530120000 -0300" channel="Band Sports HD">
+    <title lang="pt">Primeiro Tempo</title>
+  </programme>
+  <programme start="20230530120000 -0300" stop="20230530140000 -0300" channel="Band Sports HD">
+    <title lang="pt">G4</title>
+  </programme>
+  <programme start="20230530140000 -0300" stop="20230530150000 -0300" channel="Band Sports HD">
+    <title lang="pt">Esporte Agora</title>
+  </programme>
+  <programme start="20230530150000 -0300" stop="20230530170000 -0300" channel="Band Sports HD">
+    <title lang="pt">Euroliga de Basquete: Final</title>
+  </programme>
+  <programme start="20230530170000 -0300" stop="20230530180000 -0300" channel="Band Sports HD">
+    <title lang="pt">Os Donos da Bola</title>
+  </programme>
+  <programme start="20230530180000 -0300" stop="20230530194500 -0300" channel="Band Sports HD">
+    <title lang="pt">Bola Rolando</title>
+  </programme>
+  <programme start="20230530194500 -0300" stop="20230530200000 -0300" channel="Band Sports HD">
+    <title lang="pt">Bandsports News</title>
+  </programme>
+  <programme start="20230530200000 -0300" stop="20230530210000 -0300" channel="Band Sports HD">
+    <title lang="pt">Encontro de Craques</title>
+  </programme>
+  <programme start="20230530210000 -0300" stop="20230530230000 -0300" channel="Band Sports HD">
+    <title lang="pt">Nascar Cup Series</title>
+  </programme>
+  <programme start="20230530230000 -0300" stop="20230530233000 -0300" channel="Band Sports HD">
+    <title lang="pt">Acelerados</title>
+  </programme>
+  <programme start="20230530233000 -0300" stop="20230531003000 -0300" channel="Band Sports HD">
+    <title lang="pt">Depois do Jogo</title>
+  </programme>
+  <programme start="20230531003000 -0300" stop="20230531013000 -0300" channel="Band Sports HD">
+    <title lang="pt">Doc. Bandsports</title>
+  </programme>
+  <programme start="20230531013000 -0300" stop="20230531023000 -0300" channel="Band Sports HD">
+    <title lang="pt">Depois do Jogo</title>
+  </programme>
+  <programme start="20230531023000 -0300" stop="20230531033000 -0300" channel="Band Sports HD">
+    <title lang="pt">Encontro de Craques</title>
+  </programme>
+  <programme start="20230531033000 -0300" stop="20230531050000 -0300" channel="Band Sports HD">
+    <title lang="pt">Stock Car: Etapa Tarumã</title>
+  </programme>
+  <programme start="20230531050000 -0300" stop="20230531054500 -0300" channel="Band Sports HD">
+    <title lang="pt">Mundial de Motocross: Etapa França MXGP</title>
+  </programme>
+  <programme start="20230531054500 -0300" stop="20230531060000 -0300" channel="Band Sports HD">
+    <title lang="pt">Drops Bandsports</title>
+  </programme>
+  <programme start="20230531060000 -0300" stop="20230531070000 -0300" channel="Band Sports HD">
+    <title lang="pt">Depois do Jogo</title>
+  </programme>
+  <programme start="20230531070000 -0300" stop="20230531080000 -0300" channel="Band Sports HD">
+    <title lang="pt">Esporte Total</title>
+  </programme>
+  <programme start="20230531080000 -0300" stop="20230531084500 -0300" channel="Band Sports HD">
+    <title lang="pt">Resenha do Galinho</title>
+  </programme>
+  <programme start="20230531084500 -0300" stop="20230531094500 -0300" channel="Band Sports HD">
+    <title lang="pt">Encontro de Craques</title>
+  </programme>
+  <programme start="20230531094500 -0300" stop="20230531100000 -0300" channel="Band Sports HD">
+    <title lang="pt">Momento Brasil Olímpico</title>
+  </programme>
+  <programme start="20230531100000 -0300" stop="20230531110000 -0300" channel="Band Sports HD">
+    <title lang="pt">Depois do Jogo</title>
+  </programme>
+  <programme start="20230531110000 -0300" stop="20230531120000 -0300" channel="Band Sports HD">
+    <title lang="pt">Primeiro Tempo</title>
+  </programme>
+  <programme start="20230531120000 -0300" stop="20230531140000 -0300" channel="Band Sports HD">
+    <title lang="pt">G4</title>
+  </programme>
+  <programme start="20230531140000 -0300" stop="20230531150000 -0300" channel="Band Sports HD">
+    <title lang="pt">Esporte Agora</title>
+  </programme>
+  <programme start="20230531150000 -0300" stop="20230531160000 -0300" channel="Band Sports HD">
+    <title lang="pt">Mundial de Motocross: Etapa França MXGP</title>
+  </programme>
+  <programme start="20230531160000 -0300" stop="20230531170000 -0300" channel="Band Sports HD">
+    <title lang="pt">Mundial de Motocross: Etapa França MXGP</title>
+  </programme>
+  <programme start="20230531170000 -0300" stop="20230531180000 -0300" channel="Band Sports HD">
+    <title lang="pt">Os Donos da Bola</title>
+  </programme>
+  <programme start="20230531180000 -0300" stop="20230531194500 -0300" channel="Band Sports HD">
+    <title lang="pt">Bola Rolando</title>
+  </programme>
+  <programme start="20230531194500 -0300" stop="20230531200000 -0300" channel="Band Sports HD">
+    <title lang="pt">Bandsports News</title>
+  </programme>
+  <programme start="20230531200000 -0300" stop="20230531213000 -0300" channel="Band Sports HD">
+    <title lang="pt">Supermotor</title>
+  </programme>
+  <programme start="20230531213000 -0300" stop="20230531223000 -0300" channel="Band Sports HD">
+    <title lang="pt">Traduzindo F1</title>
+  </programme>
+  <programme start="20230531223000 -0300" stop="20230531233000 -0300" channel="Band Sports HD">
+    <title lang="pt">Doc. Bandsports</title>
+  </programme>
+  <programme start="20230531233000 -0300" stop="20230601003000 -0300" channel="Band Sports HD">
+    <title lang="pt">Depois do Jogo</title>
+  </programme>
+  <programme start="20230601003000 -0300" stop="20230601020000 -0300" channel="Band Sports HD">
+    <title lang="pt">Supermotor</title>
+  </programme>
+  <programme start="20230601020000 -0300" stop="20230601030000 -0300" channel="Band Sports HD">
+    <title lang="pt">Traduzindo F1</title>
+  </programme>
+  <programme start="20230601030000 -0300" stop="20230601040000 -0300" channel="Band Sports HD">
+    <title lang="pt">Depois do Jogo</title>
+  </programme>
+  <programme start="20230601040000 -0300" stop="20230601060000 -0300" channel="Band Sports HD">
+    <title lang="pt">Euroliga de Basquete: Final</title>
+  </programme>
+  <programme start="20230601060000 -0300" stop="20230601070000 -0300" channel="Band Sports HD">
+    <title lang="pt">Traduzindo F1</title>
+  </programme>
+  <programme start="20230601070000 -0300" stop="20230601083000 -0300" channel="Band Sports HD">
+    <title lang="pt">Supermotor</title>
+  </programme>
+  <programme start="20230601083000 -0300" stop="20230601091500 -0300" channel="Band Sports HD">
+    <title lang="pt">Fórmula 3: GP de Mônaco</title>
+  </programme>
+  <programme start="20230601091500 -0300" stop="20230601100000 -0300" channel="Band Sports HD">
+    <title lang="pt">Supermotor</title>
+  </programme>
+  <programme start="20230601100000 -0300" stop="20230601104500 -0300" channel="Band Sports HD">
+    <title lang="pt">Fórmula 2: GP de Mônaco</title>
+  </programme>
+  <programme start="20230601104500 -0300" stop="20230601120000 -0300" channel="Band Sports HD">
+    <title lang="pt">Primeiro Tempo</title>
+  </programme>
+  <programme start="20230601120000 -0300" stop="20230601140000 -0300" channel="Band Sports HD">
+    <title lang="pt">G4</title>
+  </programme>
+  <programme start="20230601140000 -0300" stop="20230601150000 -0300" channel="Band Sports HD">
+    <title lang="pt">Esporte Agora</title>
+  </programme>
+  <programme start="20230601150000 -0300" stop="20230601160000 -0300" channel="Band Sports HD">
+    <title lang="pt">Fórmula 2: GP de Mônaco</title>
+  </programme>
+  <programme start="20230601160000 -0300" stop="20230601170000 -0300" channel="Band Sports HD">
+    <title lang="pt">Fórmula 3: GP de Mônaco</title>
+  </programme>
+  <programme start="20230601170000 -0300" stop="20230601180000 -0300" channel="Band Sports HD">
+    <title lang="pt">Os Donos da Bola</title>
+  </programme>
+  <programme start="20230601180000 -0300" stop="20230601194500 -0300" channel="Band Sports HD">
+    <title lang="pt">Bola Rolando</title>
+  </programme>
+  <programme start="20230601194500 -0300" stop="20230601200000 -0300" channel="Band Sports HD">
+    <title lang="pt">Bandsports News</title>
+  </programme>
+  <programme start="20230601200000 -0300" stop="20230601210000 -0300" channel="Band Sports HD">
+    <title lang="pt">Maratona Bandsports</title>
+  </programme>
+  <programme start="20230601210000 -0300" stop="20230601214500 -0300" channel="Band Sports HD">
+    <title lang="pt">Resenha do Galinho</title>
+  </programme>
+  <programme start="20230601214500 -0300" stop="20230601221500 -0300" channel="Band Sports HD">
+    <title lang="pt">The Golf Brasil</title>
+  </programme>
+  <programme start="20230601221500 -0300" stop="20230601231500 -0300" channel="Band Sports HD">
+    <title lang="pt">Fórmula 2: GP de Mônaco</title>
+  </programme>
+  <programme start="20230601231500 -0300" stop="20230602001500 -0300" channel="Band Sports HD">
+    <title lang="pt">Depois do Jogo</title>
+  </programme>
+  <programme start="20230602001500 -0300" stop="20230602011500 -0300" channel="Band Sports HD">
+    <title lang="pt">Fórmula 3: GP de Mônaco</title>
+  </programme>
+  <programme start="20230602011500 -0300" stop="20230602021500 -0300" channel="Band Sports HD">
+    <title lang="pt">Depois do Jogo</title>
+  </programme>
+  <programme start="20230602021500 -0300" stop="20230602031500 -0300" channel="Band Sports HD">
+    <title lang="pt">Maratona Bandsports</title>
+  </programme>
+  <programme start="20230602031500 -0300" stop="20230602040000 -0300" channel="Band Sports HD">
+    <title lang="pt">Resenha do Galinho</title>
+  </programme>
+  <programme start="20230602040000 -0300" stop="20230602050000 -0300" channel="Band Sports HD">
+    <title lang="pt">Depois do Jogo</title>
+  </programme>
+  <programme start="20230602050000 -0300" stop="20230602060000 -0300" channel="Band Sports HD">
+    <title lang="pt">Traduzindo F1</title>
+  </programme>
+  <programme start="20230602060000 -0300" stop="20230602070000 -0300" channel="Band Sports HD">
+    <title lang="pt">Fórmula 3: GP de Mônaco</title>
+  </programme>
+  <programme start="20230602070000 -0300" stop="20230602074500 -0300" channel="Band Sports HD">
+    <title lang="pt">Fórmula 2: GP de Mônaco</title>
+  </programme>
+  <programme start="20230602074500 -0300" stop="20230602083000 -0300" channel="Band Sports HD">
+    <title lang="pt">Supermotor</title>
+  </programme>
+  <programme start="20230602083000 -0300" stop="20230602093000 -0300" channel="Band Sports HD">
+    <title lang="pt">Fórmula 1: GP de Mônaco</title>
+  </programme>
+  <programme start="20230602093000 -0300" stop="20230602100000 -0300" channel="Band Sports HD">
+    <title lang="pt">Supermotor</title>
+  </programme>
+  <programme start="20230602100000 -0300" stop="20230602110000 -0300" channel="Band Sports HD">
+    <title lang="pt">Fórmula 2: GP de Mônaco</title>
+  </programme>
+  <programme start="20230602110000 -0300" stop="20230602120000 -0300" channel="Band Sports HD">
+    <title lang="pt">Primeiro Tempo</title>
+  </programme>
+  <programme start="20230602120000 -0300" stop="20230602130000 -0300" channel="Band Sports HD">
+    <title lang="pt">Fórmula 1: GP de Mônaco</title>
+  </programme>
+  <programme start="20230602130000 -0300" stop="20230602150000 -0300" channel="Band Sports HD">
+    <title lang="pt">G4</title>
+  </programme>
+  <programme start="20230602150000 -0300" stop="20230602153000 -0300" channel="Band Sports HD">
+    <title lang="pt">The Golf Brasil</title>
+  </programme>
+  <programme start="20230602153000 -0300" stop="20230602160000 -0300" channel="Band Sports HD">
+    <title lang="pt">Fórmula 3: GP de Mônaco</title>
+  </programme>
+  <programme start="20230602160000 -0300" stop="20230602170000 -0300" channel="Band Sports HD">
+    <title lang="pt">Fórmula 2: GP de Mônaco</title>
+  </programme>
+  <programme start="20230602170000 -0300" stop="20230602180000 -0300" channel="Band Sports HD">
+    <title lang="pt">Os Donos da Bola</title>
+  </programme>
+  <programme start="20230602180000 -0300" stop="20230602194500 -0300" channel="Band Sports HD">
+    <title lang="pt">Bola Rolando</title>
+  </programme>
+  <programme start="20230602194500 -0300" stop="20230602200000 -0300" channel="Band Sports HD">
+    <title lang="pt">Bandsports News</title>
+  </programme>
+  <programme start="20230602200000 -0300" stop="20230602220000 -0300" channel="Band Sports HD">
+    <title lang="pt">Campeonato Brasileiro de Basquete</title>
+  </programme>
+  <programme start="20230602220000 -0300" stop="20230602230000 -0300" channel="Band Sports HD">
+    <title lang="pt">Depois do Jogo</title>
+  </programme>
+  <programme start="20230602230000 -0300" stop="20230602233000 -0300" channel="Band Sports HD">
+    <title lang="pt">Tour da Bola</title>
+  </programme>
+  <programme start="20230602233000 -0300" stop="20230603000000 -0300" channel="Band Sports HD">
+    <title lang="pt">Oléé</title>
+  </programme>
+  <programme start="20230603000000 -0300" stop="20230603010000 -0300" channel="Band Sports HD">
+    <title lang="pt">BWF Telecatch</title>
+  </programme>
+  <programme start="20230603010000 -0300" stop="20230603020000 -0300" channel="Band Sports HD">
+    <title lang="pt">Fórmula 1: GP de Mônaco</title>
+  </programme>
+  <programme start="20230603020000 -0300" stop="20230603034500 -0300" channel="Band Sports HD">
+    <title lang="pt">Bola Rolando</title>
+  </programme>
+  <programme start="20230603034500 -0300" stop="20230603044500 -0300" channel="Band Sports HD">
+    <title lang="pt">Fórmula 2: GP de Mônaco</title>
+  </programme>
+  <programme start="20230603044500 -0300" stop="20230603054500 -0300" channel="Band Sports HD">
+    <title lang="pt">Fórmula 3: GP de Mônaco</title>
+  </programme>
+  <programme start="20230603054500 -0300" stop="20230603060000 -0300" channel="Band Sports HD">
+    <title lang="pt">Fórmula 3: GP de Mônaco</title>
+  </programme>
+  <programme start="20230603060000 -0300" stop="20230603064500 -0300" channel="Band Sports HD">
+    <title lang="pt">Fórmula 3: GP de Mônaco</title>
+  </programme>
+  <programme start="20230603064500 -0300" stop="20230603073000 -0300" channel="Band Sports HD">
+    <title lang="pt">Supermotor</title>
+  </programme>
+  <programme start="20230603073000 -0300" stop="20230603083000 -0300" channel="Band Sports HD">
+    <title lang="pt">Fórmula 1: GP de Mônaco</title>
+  </programme>
+  <programme start="20230603083000 -0300" stop="20230603091500 -0300" channel="Band Sports HD">
+    <title lang="pt">Supermotor</title>
+  </programme>
+  <programme start="20230603091500 -0300" stop="20230603101500 -0300" channel="Band Sports HD">
+    <title lang="pt">Fórmula 2: GP de Mônaco</title>
+  </programme>
+  <programme start="20230603101500 -0300" stop="20230603103000 -0300" channel="Band Sports HD">
+    <title lang="pt">Supermotor</title>
+  </programme>
+  <programme start="20230603103000 -0300" stop="20230603121500 -0300" channel="Band Sports HD">
+    <title lang="pt">Fórmula 1: GP de Mônaco</title>
+  </programme>
+  <programme start="20230603121500 -0300" stop="20230603130000 -0300" channel="Band Sports HD">
+    <title lang="pt">Supermotor</title>
+  </programme>
+  <programme start="20230603130000 -0300" stop="20230603150000 -0300" channel="Band Sports HD">
+    <title lang="pt">Mit Cup: Etapa Indaiatuba</title>
+  </programme>
+  <programme start="20230603150000 -0300" stop="20230603181500 -0300" channel="Band Sports HD">
+    <title lang="pt">Império Endurance Brasil: Etapa Interlagos</title>
+  </programme>
+  <programme start="20230603181500 -0300" stop="20230603190000 -0300" channel="Band Sports HD">
+    <title lang="pt">Resenha do Galinho</title>
+  </programme>
+  <programme start="20230603190000 -0300" stop="20230603200000 -0300" channel="Band Sports HD">
+    <title lang="pt">Bandsports News</title>
+  </programme>
+  <programme start="20230603200000 -0300" stop="20230603210000 -0300" channel="Band Sports HD">
+    <title lang="pt">Especial Bandsports</title>
+  </programme>
+  <programme start="20230603210000 -0300" stop="20230603213000 -0300" channel="Band Sports HD">
+    <title lang="pt">The Golf Brasil</title>
+  </programme>
+  <programme start="20230603213000 -0300" stop="20230603233000 -0300" channel="Band Sports HD">
+    <title lang="pt">SFT</title>
+  </programme>
+  <programme start="20230603233000 -0300" stop="20230604001500 -0300" channel="Band Sports HD">
+    <title lang="pt">Fórmula 3: GP de Mônaco</title>
+  </programme>
+  <programme start="20230604001500 -0300" stop="20230604011500 -0300" channel="Band Sports HD">
+    <title lang="pt">Fórmula 2: GP de Mônaco</title>
+  </programme>
+  <programme start="20230604011500 -0300" stop="20230604023000 -0300" channel="Band Sports HD">
+    <title lang="pt">Fórmula 1: GP de Mônaco</title>
+  </programme>
+  <programme start="20230604023000 -0300" stop="20230604030000 -0300" channel="Band Sports HD">
+    <title lang="pt">Oléé</title>
+  </programme>
+  <programme start="20230604030000 -0300" stop="20230604040000 -0300" channel="Band Sports HD">
+    <title lang="pt">Fórmula 3: GP de Mônaco</title>
+  </programme>
+  <programme start="20230604040000 -0300" stop="20230604043000 -0300" channel="Band Sports HD">
+    <title lang="pt">Acelerados</title>
+  </programme>
+  <programme start="20230604043000 -0300" stop="20230604054500 -0300" channel="Band Sports HD">
+    <title lang="pt">Fórmula 2: GP de Mônaco</title>
+  </programme>
+  <programme start="20230604054500 -0300" stop="20230604060000 -0300" channel="Band Sports HD">
+    <title lang="pt">Fórmula 3: GP de Mônaco</title>
+  </programme>
+  <programme start="20230604060000 -0300" stop="20230604064500 -0300" channel="Band Sports HD">
+    <title lang="pt">Fórmula 3: GP de Mônaco</title>
+  </programme>
+  <programme start="20230604064500 -0300" stop="20230604074500 -0300" channel="Band Sports HD">
+    <title lang="pt">Porsche Supercup: Etapa Mônaco</title>
+  </programme>
+  <programme start="20230604074500 -0300" stop="20230604084500 -0300" channel="Band Sports HD">
+    <title lang="pt">Fórmula 1: GP de Mônaco</title>
+  </programme>
+  <programme start="20230604084500 -0300" stop="20230604094500 -0300" channel="Band Sports HD">
+    <title lang="pt">Especial Bandsports</title>
+  </programme>
+  <programme start="20230604094500 -0300" stop="20230604103000 -0300" channel="Band Sports HD">
+    <title lang="pt">Resenha do Galinho</title>
+  </programme>
+  <programme start="20230604103000 -0300" stop="20230604110000 -0300" channel="Band Sports HD">
+    <title lang="pt">The Golf Brasil</title>
+  </programme>
+  <programme start="20230604110000 -0300" stop="20230604123000 -0300" channel="Band Sports HD">
+    <title lang="pt">Yamalube R3 Cup</title>
+  </programme>
+  <programme start="20230604123000 -0300" stop="20230604133000 -0300" channel="Band Sports HD">
+    <title lang="pt">Campeonato Brasileiro de Motovelocidade: Moto 1000GP</title>
+  </programme>
+  <programme start="20230604133000 -0300" stop="20230604150000 -0300" channel="Band Sports HD">
+    <title lang="pt">Mit Cup: Etapa Indaiatuba</title>
+  </programme>
+  <programme start="20230604150000 -0300" stop="20230604160000 -0300" channel="Band Sports HD">
+    <title lang="pt">Bandsports News</title>
+  </programme>
+  <programme start="20230604160000 -0300" stop="20230604170000 -0300" channel="Band Sports HD">
+    <title lang="pt">Fórmula 2: GP de Mônaco</title>
+  </programme>
+  <programme start="20230604170000 -0300" stop="20230604190000 -0300" channel="Band Sports HD">
+    <title lang="pt">Fórmula 1: GP de Mônaco</title>
+  </programme>
+  <programme start="20230604190000 -0300" stop="20230604220000 -0300" channel="Band Sports HD">
+    <title lang="pt">Nascar Cup Series</title>
+  </programme>
+  <programme start="20230604220000 -0300" stop="20230604231500 -0300" channel="Band Sports HD">
+    <title lang="pt">Fórmula 2: GP de Mônaco</title>
+  </programme>
+  <programme start="20230528100000 -0300" stop="20230528103000 -0300" channel="Band News">
+    <title lang="pt">Capital e Mercado</title>
+  </programme>
+  <programme start="20230528103000 -0300" stop="20230528113000 -0300" channel="Band News">
+    <title lang="pt">Manhã Bandnews</title>
+  </programme>
+  <programme start="20230528113000 -0300" stop="20230528120000 -0300" channel="Band News">
+    <title lang="pt">Fim de Semana Bandnews</title>
+  </programme>
+  <programme start="20230528120000 -0300" stop="20230528123000 -0300" channel="Band News">
+    <title lang="pt">Aqui Tem Vaga</title>
+  </programme>
+  <programme start="20230528123000 -0300" stop="20230528150000 -0300" channel="Band News">
+    <title lang="pt">Fim de Semana Bandnews</title>
+  </programme>
+  <programme start="20230528150000 -0300" stop="20230528153000 -0300" channel="Band News">
+    <title lang="pt">Conexão com The New York Times</title>
+  </programme>
+  <programme start="20230528153000 -0300" stop="20230528163000 -0300" channel="Band News">
+    <title lang="pt">Fim de Semana Bandnews</title>
+  </programme>
+  <programme start="20230528163000 -0300" stop="20230528170000 -0300" channel="Band News">
+    <title lang="pt">Aqui Tem Vaga</title>
+  </programme>
+  <programme start="20230528170000 -0300" stop="20230528173000 -0300" channel="Band News">
+    <title lang="pt">Fim de Semana Bandnews</title>
+  </programme>
+  <programme start="20230528173000 -0300" stop="20230528180000 -0300" channel="Band News">
+    <title lang="pt">Ponto a Ponto</title>
+  </programme>
+  <programme start="20230528180000 -0300" stop="20230528200000 -0300" channel="Band News">
+    <title lang="pt">Fim de Semana Bandnews</title>
+  </programme>
+  <programme start="20230528200000 -0300" stop="20230528210000 -0300" channel="Band News">
+    <title lang="pt">Canal Livre</title>
+  </programme>
+  <programme start="20230528210000 -0300" stop="20230528213000 -0300" channel="Band News">
+    <title lang="pt">BandNews DOCs</title>
+  </programme>
+  <programme start="20230528213000 -0300" stop="20230529000000 -0300" channel="Band News">
+    <title lang="pt">Fim de Semana Bandnews</title>
+  </programme>
+  <programme start="20230529000000 -0300" stop="20230529020000 -0300" channel="Band News">
+    <title lang="pt">Madrugada Bandnews</title>
+  </programme>
+  <programme start="20230529020000 -0300" stop="20230529030000 -0300" channel="Band News">
+    <title lang="pt">Canal Livre</title>
+  </programme>
+  <programme start="20230529030000 -0300" stop="20230529040000 -0300" channel="Band News">
+    <title lang="pt">Madrugada Bandnews</title>
+  </programme>
+  <programme start="20230529040000 -0300" stop="20230529060500 -0300" channel="Band News">
+    <title lang="pt">Primeiro Jornal</title>
+  </programme>
+  <programme start="20230529060500 -0300" stop="20230529080000 -0300" channel="Band News">
+    <title lang="pt">Jornal BandNews: 1ª Edição</title>
+  </programme>
+  <programme start="20230529080000 -0300" stop="20230529093000 -0300" channel="Band News">
+    <title lang="pt">Jornal Gente</title>
+  </programme>
+  <programme start="20230529093000 -0300" stop="20230529120000 -0300" channel="Band News">
+    <title lang="pt">Manhã Bandnews</title>
+  </programme>
+  <programme start="20230529120000 -0300" stop="20230529140000 -0300" channel="Band News">
+    <title lang="pt">Bandnews No Meio do Dia</title>
+  </programme>
+  <programme start="20230529140000 -0300" stop="20230529180000 -0300" channel="Band News">
+    <title lang="pt">Tarde Bandnews</title>
+  </programme>
+  <programme start="20230529180000 -0300" stop="20230529193000 -0300" channel="Band News">
+    <title lang="pt">O É da Coisa</title>
+  </programme>
+  <programme start="20230529193000 -0300" stop="20230529203000 -0300" channel="Band News">
+    <title lang="pt">Jornal BandNews: 2ª Edição</title>
+  </programme>
+  <programme start="20230529203000 -0300" stop="20230529213000 -0300" channel="Band News">
+    <title lang="pt">Jornal da Band</title>
+  </programme>
+  <programme start="20230529213000 -0300" stop="20230529230000 -0300" channel="Band News">
+    <title lang="pt">Jornal da Noite</title>
+  </programme>
+  <programme start="20230529230000 -0300" stop="20230530000000 -0300" channel="Band News">
+    <title lang="pt">Canal Livre</title>
+  </programme>
+  <programme start="20230530000000 -0300" stop="20230530020000 -0300" channel="Band News">
+    <title lang="pt">Madrugada Bandnews</title>
+  </programme>
+  <programme start="20230530020000 -0300" stop="20230530024500 -0300" channel="Band News">
+    <title lang="pt">Jornal da Noite</title>
+  </programme>
+  <programme start="20230530024500 -0300" stop="20230530030000 -0300" channel="Band News">
+    <title lang="pt">Madrugada Bandnews</title>
+  </programme>
+  <programme start="20230530030000 -0300" stop="20230530034500 -0300" channel="Band News">
+    <title lang="pt">Jornal Terraviva</title>
+  </programme>
+  <programme start="20230530034500 -0300" stop="20230530040000 -0300" channel="Band News">
+    <title lang="pt">Aqui Tem Vaga</title>
+  </programme>
+  <programme start="20230530040000 -0300" stop="20230530060500 -0300" channel="Band News">
+    <title lang="pt">Primeiro Jornal</title>
+  </programme>
+  <programme start="20230530060500 -0300" stop="20230530080000 -0300" channel="Band News">
+    <title lang="pt">Jornal BandNews: 1ª Edição</title>
+  </programme>
+  <programme start="20230530080000 -0300" stop="20230530093000 -0300" channel="Band News">
+    <title lang="pt">Jornal Gente</title>
+  </programme>
+  <programme start="20230530093000 -0300" stop="20230530120000 -0300" channel="Band News">
+    <title lang="pt">Manhã Bandnews</title>
+  </programme>
+  <programme start="20230530120000 -0300" stop="20230530140000 -0300" channel="Band News">
+    <title lang="pt">Bandnews No Meio do Dia</title>
+  </programme>
+  <programme start="20230530140000 -0300" stop="20230530180000 -0300" channel="Band News">
+    <title lang="pt">Tarde Bandnews</title>
+  </programme>
+  <programme start="20230530180000 -0300" stop="20230530193000 -0300" channel="Band News">
+    <title lang="pt">O É da Coisa</title>
+  </programme>
+  <programme start="20230530193000 -0300" stop="20230530203000 -0300" channel="Band News">
+    <title lang="pt">Jornal BandNews: 2ª Edição</title>
+  </programme>
+  <programme start="20230530203000 -0300" stop="20230530213000 -0300" channel="Band News">
+    <title lang="pt">Jornal da Band</title>
+  </programme>
+  <programme start="20230530213000 -0300" stop="20230530233000 -0300" channel="Band News">
+    <title lang="pt">Jornal da Noite</title>
+  </programme>
+  <programme start="20230530233000 -0300" stop="20230531000000 -0300" channel="Band News">
+    <title lang="pt">Capital e Mercado</title>
+  </programme>
+  <programme start="20230531000000 -0300" stop="20230531020000 -0300" channel="Band News">
+    <title lang="pt">Madrugada Bandnews</title>
+  </programme>
+  <programme start="20230531020000 -0300" stop="20230531024500 -0300" channel="Band News">
+    <title lang="pt">Jornal da Noite</title>
+  </programme>
+  <programme start="20230531024500 -0300" stop="20230531030000 -0300" channel="Band News">
+    <title lang="pt">Madrugada Bandnews</title>
+  </programme>
+  <programme start="20230531030000 -0300" stop="20230531034500 -0300" channel="Band News">
+    <title lang="pt">Jornal Terraviva</title>
+  </programme>
+  <programme start="20230531034500 -0300" stop="20230531040000 -0300" channel="Band News">
+    <title lang="pt">Capital e Mercado</title>
+  </programme>
+  <programme start="20230531040000 -0300" stop="20230531060500 -0300" channel="Band News">
+    <title lang="pt">Primeiro Jornal</title>
+  </programme>
+  <programme start="20230531060500 -0300" stop="20230531080000 -0300" channel="Band News">
+    <title lang="pt">Jornal BandNews: 1ª Edição</title>
+  </programme>
+  <programme start="20230531080000 -0300" stop="20230531093000 -0300" channel="Band News">
+    <title lang="pt">Jornal Gente</title>
+  </programme>
+  <programme start="20230531093000 -0300" stop="20230531120000 -0300" channel="Band News">
+    <title lang="pt">Manhã Bandnews</title>
+  </programme>
+  <programme start="20230531120000 -0300" stop="20230531140000 -0300" channel="Band News">
+    <title lang="pt">Bandnews No Meio do Dia</title>
+  </programme>
+  <programme start="20230531140000 -0300" stop="20230531180000 -0300" channel="Band News">
+    <title lang="pt">Tarde Bandnews</title>
+  </programme>
+  <programme start="20230531180000 -0300" stop="20230531193000 -0300" channel="Band News">
+    <title lang="pt">O É da Coisa</title>
+  </programme>
+  <programme start="20230531193000 -0300" stop="20230531203000 -0300" channel="Band News">
+    <title lang="pt">Jornal BandNews: 2ª Edição</title>
+  </programme>
+  <programme start="20230531203000 -0300" stop="20230531213000 -0300" channel="Band News">
+    <title lang="pt">Jornal da Band</title>
+  </programme>
+  <programme start="20230531213000 -0300" stop="20230531233000 -0300" channel="Band News">
+    <title lang="pt">Jornal da Noite</title>
+  </programme>
+  <programme start="20230531233000 -0300" stop="20230601000000 -0300" channel="Band News">
+    <title lang="pt">Ponto a Ponto</title>
+  </programme>
+  <programme start="20230601000000 -0300" stop="20230601020000 -0300" channel="Band News">
+    <title lang="pt">Madrugada Bandnews</title>
+  </programme>
+  <programme start="20230601020000 -0300" stop="20230601024500 -0300" channel="Band News">
+    <title lang="pt">Jornal da Noite</title>
+  </programme>
+  <programme start="20230601024500 -0300" stop="20230601030000 -0300" channel="Band News">
+    <title lang="pt">Madrugada Bandnews</title>
+  </programme>
+  <programme start="20230601030000 -0300" stop="20230601034500 -0300" channel="Band News">
+    <title lang="pt">Jornal Terraviva</title>
+  </programme>
+  <programme start="20230601034500 -0300" stop="20230601040000 -0300" channel="Band News">
+    <title lang="pt">Ponto a Ponto</title>
+  </programme>
+  <programme start="20230601040000 -0300" stop="20230601060500 -0300" channel="Band News">
+    <title lang="pt">Primeiro Jornal</title>
+  </programme>
+  <programme start="20230601060500 -0300" stop="20230601080000 -0300" channel="Band News">
+    <title lang="pt">Jornal BandNews: 1ª Edição</title>
+  </programme>
+  <programme start="20230601080000 -0300" stop="20230601093000 -0300" channel="Band News">
+    <title lang="pt">Jornal Gente</title>
+  </programme>
+  <programme start="20230601093000 -0300" stop="20230601120000 -0300" channel="Band News">
+    <title lang="pt">Manhã Bandnews</title>
+  </programme>
+  <programme start="20230601120000 -0300" stop="20230601140000 -0300" channel="Band News">
+    <title lang="pt">Bandnews No Meio do Dia</title>
+  </programme>
+  <programme start="20230601140000 -0300" stop="20230601180000 -0300" channel="Band News">
+    <title lang="pt">Tarde Bandnews</title>
+  </programme>
+  <programme start="20230601180000 -0300" stop="20230601193000 -0300" channel="Band News">
+    <title lang="pt">O É da Coisa</title>
+  </programme>
+  <programme start="20230601193000 -0300" stop="20230601203000 -0300" channel="Band News">
+    <title lang="pt">Jornal BandNews: 2ª Edição</title>
+  </programme>
+  <programme start="20230601203000 -0300" stop="20230601213000 -0300" channel="Band News">
+    <title lang="pt">Jornal da Band</title>
+  </programme>
+  <programme start="20230601213000 -0300" stop="20230601233000 -0300" channel="Band News">
+    <title lang="pt">Jornal da Noite</title>
+  </programme>
+  <programme start="20230601233000 -0300" stop="20230602000000 -0300" channel="Band News">
+    <title lang="pt">BandNews DOCs</title>
+  </programme>
+  <programme start="20230602000000 -0300" stop="20230602003000 -0300" channel="Band News">
+    <title lang="pt">Madrugada Bandnews</title>
+  </programme>
+  <programme start="20230602003000 -0300" stop="20230602010000 -0300" channel="Band News">
+    <title lang="pt">Ponto a Ponto</title>
+  </programme>
+  <programme start="20230602010000 -0300" stop="20230602020000 -0300" channel="Band News">
+    <title lang="pt">Madrugada Bandnews</title>
+  </programme>
+  <programme start="20230602020000 -0300" stop="20230602024500 -0300" channel="Band News">
+    <title lang="pt">Jornal da Noite</title>
+  </programme>
+  <programme start="20230602024500 -0300" stop="20230602030000 -0300" channel="Band News">
+    <title lang="pt">Madrugada Bandnews</title>
+  </programme>
+  <programme start="20230602030000 -0300" stop="20230602034500 -0300" channel="Band News">
+    <title lang="pt">Jornal Terraviva</title>
+  </programme>
+  <programme start="20230602034500 -0300" stop="20230602040000 -0300" channel="Band News">
+    <title lang="pt">BandNews DOCs</title>
+  </programme>
+  <programme start="20230602040000 -0300" stop="20230602060500 -0300" channel="Band News">
+    <title lang="pt">Primeiro Jornal</title>
+  </programme>
+  <programme start="20230602060500 -0300" stop="20230602080000 -0300" channel="Band News">
+    <title lang="pt">Jornal BandNews: 1ª Edição</title>
+  </programme>
+  <programme start="20230602080000 -0300" stop="20230602093000 -0300" channel="Band News">
+    <title lang="pt">Jornal Gente</title>
+  </programme>
+  <programme start="20230602093000 -0300" stop="20230602120000 -0300" channel="Band News">
+    <title lang="pt">Manhã Bandnews</title>
+  </programme>
+  <programme start="20230602120000 -0300" stop="20230602140000 -0300" channel="Band News">
+    <title lang="pt">Bandnews No Meio do Dia</title>
+  </programme>
+  <programme start="20230602140000 -0300" stop="20230602180000 -0300" channel="Band News">
+    <title lang="pt">Tarde Bandnews</title>
+  </programme>
+  <programme start="20230602180000 -0300" stop="20230602193000 -0300" channel="Band News">
+    <title lang="pt">O É da Coisa</title>
+  </programme>
+  <programme start="20230602193000 -0300" stop="20230602203000 -0300" channel="Band News">
+    <title lang="pt">Jornal BandNews: 2ª Edição</title>
+  </programme>
+  <programme start="20230602203000 -0300" stop="20230602213000 -0300" channel="Band News">
+    <title lang="pt">Jornal da Band</title>
+  </programme>
+  <programme start="20230602213000 -0300" stop="20230602233000 -0300" channel="Band News">
+    <title lang="pt">Jornal da Noite</title>
+  </programme>
+  <programme start="20230602233000 -0300" stop="20230603000000 -0300" channel="Band News">
+    <title lang="pt">Conexão com The New York Times</title>
+  </programme>
+  <programme start="20230603000000 -0300" stop="20230603020000 -0300" channel="Band News">
+    <title lang="pt">Madrugada Bandnews</title>
+  </programme>
+  <programme start="20230603020000 -0300" stop="20230603024500 -0300" channel="Band News">
+    <title lang="pt">Jornal da Noite</title>
+  </programme>
+  <programme start="20230603024500 -0300" stop="20230603030000 -0300" channel="Band News">
+    <title lang="pt">Madrugada Bandnews</title>
+  </programme>
+  <programme start="20230603030000 -0300" stop="20230603034500 -0300" channel="Band News">
+    <title lang="pt">Jornal Terraviva</title>
+  </programme>
+  <programme start="20230603034500 -0300" stop="20230603040000 -0300" channel="Band News">
+    <title lang="pt">Conexão com The New York Times</title>
+  </programme>
+  <programme start="20230603040000 -0300" stop="20230603060500 -0300" channel="Band News">
+    <title lang="pt">Primeiro Jornal</title>
+  </programme>
+  <programme start="20230603060500 -0300" stop="20230603070000 -0300" channel="Band News">
+    <title lang="pt">Jornal BandNews: 1ª Edição</title>
+  </programme>
+  <programme start="20230603070000 -0300" stop="20230603073000 -0300" channel="Band News">
+    <title lang="pt">BandNews DOCs</title>
+  </programme>
+  <programme start="20230603073000 -0300" stop="20230603080000 -0300" channel="Band News">
+    <title lang="pt">Jornal BandNews: 1ª Edição</title>
+  </programme>
+  <programme start="20230603080000 -0300" stop="20230603090000 -0300" channel="Band News">
+    <title lang="pt">Manhã Bandnews</title>
+  </programme>
+  <programme start="20230603090000 -0300" stop="20230603093000 -0300" channel="Band News">
+    <title lang="pt">Conexão com The New York Times</title>
+  </programme>
+  <programme start="20230603093000 -0300" stop="20230603100000 -0300" channel="Band News">
+    <title lang="pt">Manhã Bandnews</title>
+  </programme>
+  <programme start="20230603100000 -0300" stop="20230603103000 -0300" channel="Band News">
+    <title lang="pt">Aqui Tem Vaga</title>
+  </programme>
+  <programme start="20230603103000 -0300" stop="20230603110000 -0300" channel="Band News">
+    <title lang="pt">Manhã Bandnews</title>
+  </programme>
+  <programme start="20230603110000 -0300" stop="20230603113000 -0300" channel="Band News">
+    <title lang="pt">Ponto a Ponto</title>
+  </programme>
+  <programme start="20230603113000 -0300" stop="20230603120000 -0300" channel="Band News">
+    <title lang="pt">Manhã Bandnews</title>
+  </programme>
+  <programme start="20230603120000 -0300" stop="20230603123000 -0300" channel="Band News">
+    <title lang="pt">Capital e Mercado</title>
+  </programme>
+  <programme start="20230603123000 -0300" stop="20230603140000 -0300" channel="Band News">
+    <title lang="pt">Bandnews No Meio do Dia</title>
+  </programme>
+  <programme start="20230603140000 -0300" stop="20230603160000 -0300" channel="Band News">
+    <title lang="pt">Tarde Bandnews</title>
+  </programme>
+  <programme start="20230603160000 -0300" stop="20230603163000 -0300" channel="Band News">
+    <title lang="pt">Aqui Tem Vaga</title>
+  </programme>
+  <programme start="20230603163000 -0300" stop="20230603180000 -0300" channel="Band News">
+    <title lang="pt">Tarde Bandnews</title>
+  </programme>
+  <programme start="20230603180000 -0300" stop="20230603190000 -0300" channel="Band News">
+    <title lang="pt">Jornal BandNews: 2ª Edição</title>
+  </programme>
+  <programme start="20230603190000 -0300" stop="20230603193000 -0300" channel="Band News">
+    <title lang="pt">BandNews DOCs</title>
+  </programme>
+  <programme start="20230603193000 -0300" stop="20230603200000 -0300" channel="Band News">
+    <title lang="pt">Jornal BandNews: 2ª Edição</title>
+  </programme>
+  <programme start="20230603200000 -0300" stop="20230603203000 -0300" channel="Band News">
+    <title lang="pt">Fim de Semana Bandnews</title>
+  </programme>
+  <programme start="20230603203000 -0300" stop="20230603213000 -0300" channel="Band News">
+    <title lang="pt">Jornal da Band</title>
+  </programme>
+  <programme start="20230603213000 -0300" stop="20230603220000 -0300" channel="Band News">
+    <title lang="pt">Fim de Semana Bandnews</title>
+  </programme>
+  <programme start="20230603220000 -0300" stop="20230603230000 -0300" channel="Band News">
+    <title lang="pt">Jornal da Noite</title>
+  </programme>
+  <programme start="20230603230000 -0300" stop="20230603233000 -0300" channel="Band News">
+    <title lang="pt">Conexão com The New York Times</title>
+  </programme>
+  <programme start="20230603233000 -0300" stop="20230604000000 -0300" channel="Band News">
+    <title lang="pt">Jornal da Noite</title>
+  </programme>
+  <programme start="20230604000000 -0300" stop="20230604060500 -0300" channel="Band News">
+    <title lang="pt">Madrugada Bandnews</title>
+  </programme>
+  <programme start="20230604060500 -0300" stop="20230604080000 -0300" channel="Band News">
+    <title lang="pt">Jornal BandNews: 1ª Edição</title>
+  </programme>
+  <programme start="20230604080000 -0300" stop="20230604090000 -0300" channel="Band News">
+    <title lang="pt">Manhã Bandnews</title>
+  </programme>
+  <programme start="20230604090000 -0300" stop="20230604093000 -0300" channel="Band News">
+    <title lang="pt">BandNews DOCs</title>
+  </programme>
+  <programme start="20230604093000 -0300" stop="20230604100000 -0300" channel="Band News">
+    <title lang="pt">Manhã Bandnews</title>
+  </programme>
+  <programme start="20230604100000 -0300" stop="20230604103000 -0300" channel="Band News">
+    <title lang="pt">Capital e Mercado</title>
+  </programme>
+  <programme start="20230604103000 -0300" stop="20230604113000 -0300" channel="Band News">
+    <title lang="pt">Manhã Bandnews</title>
+  </programme>
+  <programme start="20230604113000 -0300" stop="20230604120000 -0300" channel="Band News">
+    <title lang="pt">Fim de Semana Bandnews</title>
+  </programme>
+  <programme start="20230604120000 -0300" stop="20230604123000 -0300" channel="Band News">
+    <title lang="pt">Aqui Tem Vaga</title>
+  </programme>
+  <programme start="20230604123000 -0300" stop="20230604150000 -0300" channel="Band News">
+    <title lang="pt">Fim de Semana Bandnews</title>
+  </programme>
+  <programme start="20230604150000 -0300" stop="20230604153000 -0300" channel="Band News">
+    <title lang="pt">Conexão com The New York Times</title>
+  </programme>
+  <programme start="20230604153000 -0300" stop="20230604163000 -0300" channel="Band News">
+    <title lang="pt">Fim de Semana Bandnews</title>
+  </programme>
+  <programme start="20230604163000 -0300" stop="20230604170000 -0300" channel="Band News">
+    <title lang="pt">Aqui Tem Vaga</title>
+  </programme>
+  <programme start="20230604170000 -0300" stop="20230604173000 -0300" channel="Band News">
+    <title lang="pt">Fim de Semana Bandnews</title>
+  </programme>
+  <programme start="20230604173000 -0300" stop="20230604180000 -0300" channel="Band News">
+    <title lang="pt">Ponto a Ponto</title>
+  </programme>
+  <programme start="20230604180000 -0300" stop="20230604200000 -0300" channel="Band News">
+    <title lang="pt">Fim de Semana Bandnews</title>
+  </programme>
+  <programme start="20230604200000 -0300" stop="20230604210000 -0300" channel="Band News">
+    <title lang="pt">Canal Livre</title>
+  </programme>
+  <programme start="20230604210000 -0300" stop="20230604213000 -0300" channel="Band News">
+    <title lang="pt">BandNews DOCs</title>
+  </programme>
+  <programme start="20230528100000 -0300" stop="20230528103000 -0300" channel="Nickelodeon">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+  </programme>
+  <programme start="20230528103000 -0300" stop="20230528110000 -0300" channel="Nickelodeon">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+  </programme>
+  <programme start="20230528110000 -0300" stop="20230528113000 -0300" channel="Nickelodeon">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+  </programme>
+  <programme start="20230528113000 -0300" stop="20230528120000 -0300" channel="Nickelodeon">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+  </programme>
+  <programme start="20230528120000 -0300" stop="20230528123000 -0300" channel="Nickelodeon">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+  </programme>
+  <programme start="20230528123000 -0300" stop="20230528130000 -0300" channel="Nickelodeon">
+    <title lang="pt">Kamp Coral: Bob Esponja, Primeiros Anos!</title>
+  </programme>
+  <programme start="20230528130000 -0300" stop="20230528133000 -0300" channel="Nickelodeon">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+  </programme>
+  <programme start="20230528133000 -0300" stop="20230528140000 -0300" channel="Nickelodeon">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+  </programme>
+  <programme start="20230528140000 -0300" stop="20230528143000 -0300" channel="Nickelodeon">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+  </programme>
+  <programme start="20230528143000 -0300" stop="20230528150000 -0300" channel="Nickelodeon">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+  </programme>
+  <programme start="20230528150000 -0300" stop="20230528153000 -0300" channel="Nickelodeon">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+  </programme>
+  <programme start="20230528153000 -0300" stop="20230528160000 -0300" channel="Nickelodeon">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+  </programme>
+  <programme start="20230528160000 -0300" stop="20230528163000 -0300" channel="Nickelodeon">
+    <title lang="pt">Kamp Coral: Bob Esponja, Primeiros Anos!</title>
+  </programme>
+  <programme start="20230528163000 -0300" stop="20230528170000 -0300" channel="Nickelodeon">
+    <title lang="pt">Kamp Coral: Bob Esponja, Primeiros Anos!</title>
+  </programme>
+  <programme start="20230528170000 -0300" stop="20230528173000 -0300" channel="Nickelodeon">
+    <title lang="pt">Rugrats: Os Anjinhos</title>
+  </programme>
+  <programme start="20230528173000 -0300" stop="20230528180000 -0300" channel="Nickelodeon">
+    <title lang="pt">Rugrats: Os Anjinhos</title>
+  </programme>
+  <programme start="20230528180000 -0300" stop="20230528183000 -0300" channel="Nickelodeon">
+    <title lang="pt">The Loud House</title>
+  </programme>
+  <programme start="20230528183000 -0300" stop="20230528190000 -0300" channel="Nickelodeon">
+    <title lang="pt">That Girl Lay Lay</title>
+  </programme>
+  <programme start="20230528190000 -0300" stop="20230528193000 -0300" channel="Nickelodeon">
+    <title lang="pt">Tyler Perry's Young Dylan</title>
+  </programme>
+  <programme start="20230528193000 -0300" stop="20230528200000 -0300" channel="Nickelodeon">
+    <title lang="pt">The Really Loud House</title>
+  </programme>
+  <programme start="20230528200000 -0300" stop="20230528203000 -0300" channel="Nickelodeon">
+    <title lang="pt">Força Danger</title>
+  </programme>
+  <programme start="20230528203000 -0300" stop="20230528210000 -0300" channel="Nickelodeon">
+    <title lang="pt">Força Danger</title>
+  </programme>
+  <programme start="20230528210000 -0300" stop="20230528213000 -0300" channel="Nickelodeon">
+    <title lang="pt">O Show Do Patrick Estrela</title>
+  </programme>
+  <programme start="20230528213000 -0300" stop="20230528220000 -0300" channel="Nickelodeon">
+    <title lang="pt">O Show Do Patrick Estrela</title>
+  </programme>
+  <programme start="20230528220000 -0300" stop="20230528223000 -0300" channel="Nickelodeon">
+    <title lang="pt">Best &amp; Bester: Cada Forma Uma Aventura</title>
+  </programme>
+  <programme start="20230528223000 -0300" stop="20230528230000 -0300" channel="Nickelodeon">
+    <title lang="pt">Best &amp; Bester: Cada Forma Uma Aventura</title>
+  </programme>
+  <programme start="20230528230000 -0300" stop="20230528233000 -0300" channel="Nickelodeon">
+    <title lang="pt">The Loud House</title>
+  </programme>
+  <programme start="20230528233000 -0300" stop="20230529000000 -0300" channel="Nickelodeon">
+    <title lang="pt">Kamp Coral: Bob Esponja, Primeiros Anos!</title>
+  </programme>
+  <programme start="20230529000000 -0300" stop="20230529003000 -0300" channel="Nickelodeon">
+    <title lang="pt">Kamp Coral: Bob Esponja, Primeiros Anos!</title>
+  </programme>
+  <programme start="20230529003000 -0300" stop="20230529010000 -0300" channel="Nickelodeon">
+    <title lang="pt">Best &amp; Bester: Cada Forma Uma Aventura</title>
+  </programme>
+  <programme start="20230529010000 -0300" stop="20230529013000 -0300" channel="Nickelodeon">
+    <title lang="pt">Transformers: A Centelha Da Terra</title>
+  </programme>
+  <programme start="20230529013000 -0300" stop="20230529020000 -0300" channel="Nickelodeon">
+    <title lang="pt">Transformers: A Centelha Da Terra</title>
+  </programme>
+  <programme start="20230529020000 -0300" stop="20230529023000 -0300" channel="Nickelodeon">
+    <title lang="pt">Força Danger</title>
+  </programme>
+  <programme start="20230529023000 -0300" stop="20230529030000 -0300" channel="Nickelodeon">
+    <title lang="pt">Força Danger</title>
+  </programme>
+  <programme start="20230529030000 -0300" stop="20230529033000 -0300" channel="Nickelodeon">
+    <title lang="pt">Henry Danger</title>
+  </programme>
+  <programme start="20230529033000 -0300" stop="20230529040000 -0300" channel="Nickelodeon">
+    <title lang="pt">Henry Danger</title>
+  </programme>
+  <programme start="20230529040000 -0300" stop="20230529043000 -0300" channel="Nickelodeon">
+    <title lang="pt">Henry Danger</title>
+  </programme>
+  <programme start="20230529043000 -0300" stop="20230529050000 -0300" channel="Nickelodeon">
+    <title lang="pt">The Loud House</title>
+  </programme>
+  <programme start="20230529050000 -0300" stop="20230529053000 -0300" channel="Nickelodeon">
+    <title lang="pt">Os Thundermans</title>
+  </programme>
+  <programme start="20230529053000 -0300" stop="20230529060000 -0300" channel="Nickelodeon">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+  </programme>
+  <programme start="20230529060000 -0300" stop="20230529063000 -0300" channel="Nickelodeon">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+  </programme>
+  <programme start="20230529063000 -0300" stop="20230529070000 -0300" channel="Nickelodeon">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+  </programme>
+  <programme start="20230529070000 -0300" stop="20230529073000 -0300" channel="Nickelodeon">
+    <title lang="pt">The Loud House</title>
+  </programme>
+  <programme start="20230529073000 -0300" stop="20230529080000 -0300" channel="Nickelodeon">
+    <title lang="pt">The Loud House</title>
+  </programme>
+  <programme start="20230529080000 -0300" stop="20230529083000 -0300" channel="Nickelodeon">
+    <title lang="pt">The Loud House</title>
+  </programme>
+  <programme start="20230529083000 -0300" stop="20230529090000 -0300" channel="Nickelodeon">
+    <title lang="pt">The Loud House</title>
+  </programme>
+  <programme start="20230529090000 -0300" stop="20230529093000 -0300" channel="Nickelodeon">
+    <title lang="pt">Os Smurfs</title>
+  </programme>
+  <programme start="20230529093000 -0300" stop="20230529100000 -0300" channel="Nickelodeon">
+    <title lang="pt">Os Smurfs</title>
+  </programme>
+  <programme start="20230529100000 -0300" stop="20230529103000 -0300" channel="Nickelodeon">
+    <title lang="pt">Patrulha Canina</title>
+  </programme>
+  <programme start="20230529103000 -0300" stop="20230529110000 -0300" channel="Nickelodeon">
+    <title lang="pt">Patrulha Canina</title>
+  </programme>
+  <programme start="20230529110000 -0300" stop="20230529113000 -0300" channel="Nickelodeon">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+  </programme>
+  <programme start="20230529113000 -0300" stop="20230529120000 -0300" channel="Nickelodeon">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+  </programme>
+  <programme start="20230529120000 -0300" stop="20230529123000 -0300" channel="Nickelodeon">
+    <title lang="pt">Tainá e Os Guardiões da Amazônia</title>
+  </programme>
+  <programme start="20230529123000 -0300" stop="20230529130000 -0300" channel="Nickelodeon">
+    <title lang="pt">Tainá e Os Guardiões da Amazônia</title>
+  </programme>
+  <programme start="20230529130000 -0300" stop="20230529133000 -0300" channel="Nickelodeon">
+    <title lang="pt">Rugrats: Os Anjinhos</title>
+  </programme>
+  <programme start="20230529133000 -0300" stop="20230529140000 -0300" channel="Nickelodeon">
+    <title lang="pt">Os Smurfs</title>
+  </programme>
+  <programme start="20230529140000 -0300" stop="20230529143000 -0300" channel="Nickelodeon">
+    <title lang="pt">The Loud House</title>
+  </programme>
+  <programme start="20230529143000 -0300" stop="20230529150000 -0300" channel="Nickelodeon">
+    <title lang="pt">Kamp Coral: Bob Esponja, Primeiros Anos!</title>
+  </programme>
+  <programme start="20230529150000 -0300" stop="20230529153000 -0300" channel="Nickelodeon">
+    <title lang="pt">The Twisted Timeline of Sammy and Raj</title>
+  </programme>
+  <programme start="20230529153000 -0300" stop="20230529160000 -0300" channel="Nickelodeon">
+    <title lang="pt">Lego</title>
+  </programme>
+  <programme start="20230529160000 -0300" stop="20230529163000 -0300" channel="Nickelodeon">
+    <title lang="pt">Big Nate</title>
+  </programme>
+  <programme start="20230529163000 -0300" stop="20230529170000 -0300" channel="Nickelodeon">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+  </programme>
+  <programme start="20230529170000 -0300" stop="20230529173000 -0300" channel="Nickelodeon">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+  </programme>
+  <programme start="20230529173000 -0300" stop="20230529180000 -0300" channel="Nickelodeon">
+    <title lang="pt">Força Danger</title>
+  </programme>
+  <programme start="20230529180000 -0300" stop="20230529183000 -0300" channel="Nickelodeon">
+    <title lang="pt">Força Danger</title>
+  </programme>
+  <programme start="20230529183000 -0300" stop="20230529190000 -0300" channel="Nickelodeon">
+    <title lang="pt">Kamp Coral: Bob Esponja, Primeiros Anos!</title>
+  </programme>
+  <programme start="20230529190000 -0300" stop="20230529193000 -0300" channel="Nickelodeon">
+    <title lang="pt">The Loud House</title>
+  </programme>
+  <programme start="20230529193000 -0300" stop="20230529200000 -0300" channel="Nickelodeon">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+  </programme>
+  <programme start="20230529200000 -0300" stop="20230529203000 -0300" channel="Nickelodeon">
+    <title lang="pt">The Loud House</title>
+  </programme>
+  <programme start="20230529203000 -0300" stop="20230529210000 -0300" channel="Nickelodeon">
+    <title lang="pt">The Loud House</title>
+  </programme>
+  <programme start="20230529210000 -0300" stop="20230529213000 -0300" channel="Nickelodeon">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+  </programme>
+  <programme start="20230529213000 -0300" stop="20230529220000 -0300" channel="Nickelodeon">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+  </programme>
+  <programme start="20230529220000 -0300" stop="20230529223000 -0300" channel="Nickelodeon">
+    <title lang="pt">The Loud House</title>
+  </programme>
+  <programme start="20230529223000 -0300" stop="20230529230000 -0300" channel="Nickelodeon">
+    <title lang="pt">The Loud House</title>
+  </programme>
+  <programme start="20230529230000 -0300" stop="20230529233000 -0300" channel="Nickelodeon">
+    <title lang="pt">Força Danger</title>
+  </programme>
+  <programme start="20230529233000 -0300" stop="20230530000000 -0300" channel="Nickelodeon">
+    <title lang="pt">Força Danger</title>
+  </programme>
+  <programme start="20230530000000 -0300" stop="20230530003000 -0300" channel="Nickelodeon">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+  </programme>
+  <programme start="20230530003000 -0300" stop="20230530010000 -0300" channel="Nickelodeon">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+  </programme>
+  <programme start="20230530010000 -0300" stop="20230530013000 -0300" channel="Nickelodeon">
+    <title lang="pt">The Loud House</title>
+  </programme>
+  <programme start="20230530013000 -0300" stop="20230530020000 -0300" channel="Nickelodeon">
+    <title lang="pt">Os Thundermans</title>
+  </programme>
+  <programme start="20230530020000 -0300" stop="20230530023000 -0300" channel="Nickelodeon">
+    <title lang="pt">Os Thundermans</title>
+  </programme>
+  <programme start="20230530023000 -0300" stop="20230530030000 -0300" channel="Nickelodeon">
+    <title lang="pt">Força Danger</title>
+  </programme>
+  <programme start="20230530030000 -0300" stop="20230530033000 -0300" channel="Nickelodeon">
+    <title lang="pt">Força Danger</title>
+  </programme>
+  <programme start="20230530033000 -0300" stop="20230530040000 -0300" channel="Nickelodeon">
+    <title lang="pt">Henry Danger</title>
+  </programme>
+  <programme start="20230530040000 -0300" stop="20230530043000 -0300" channel="Nickelodeon">
+    <title lang="pt">Henry Danger</title>
+  </programme>
+  <programme start="20230530043000 -0300" stop="20230530050000 -0300" channel="Nickelodeon">
+    <title lang="pt">Os Thundermans</title>
+  </programme>
+  <programme start="20230530050000 -0300" stop="20230530053000 -0300" channel="Nickelodeon">
+    <title lang="pt">Os Thundermans</title>
+  </programme>
+  <programme start="20230530053000 -0300" stop="20230530060000 -0300" channel="Nickelodeon">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+  </programme>
+  <programme start="20230530060000 -0300" stop="20230530063000 -0300" channel="Nickelodeon">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+  </programme>
+  <programme start="20230530063000 -0300" stop="20230530070000 -0300" channel="Nickelodeon">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+  </programme>
+  <programme start="20230530070000 -0300" stop="20230530073000 -0300" channel="Nickelodeon">
+    <title lang="pt">The Loud House</title>
+  </programme>
+  <programme start="20230530073000 -0300" stop="20230530080000 -0300" channel="Nickelodeon">
+    <title lang="pt">The Loud House</title>
+  </programme>
+  <programme start="20230530080000 -0300" stop="20230530083000 -0300" channel="Nickelodeon">
+    <title lang="pt">The Loud House</title>
+  </programme>
+  <programme start="20230530083000 -0300" stop="20230530090000 -0300" channel="Nickelodeon">
+    <title lang="pt">The Loud House</title>
+  </programme>
+  <programme start="20230530090000 -0300" stop="20230530093000 -0300" channel="Nickelodeon">
+    <title lang="pt">Os Smurfs</title>
+  </programme>
+  <programme start="20230530093000 -0300" stop="20230530100000 -0300" channel="Nickelodeon">
+    <title lang="pt">Os Smurfs</title>
+  </programme>
+  <programme start="20230530100000 -0300" stop="20230530103000 -0300" channel="Nickelodeon">
+    <title lang="pt">Patrulha Canina</title>
+  </programme>
+  <programme start="20230530103000 -0300" stop="20230530110000 -0300" channel="Nickelodeon">
+    <title lang="pt">Patrulha Canina</title>
+  </programme>
+  <programme start="20230530110000 -0300" stop="20230530113000 -0300" channel="Nickelodeon">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+  </programme>
+  <programme start="20230530113000 -0300" stop="20230530120000 -0300" channel="Nickelodeon">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+  </programme>
+  <programme start="20230530120000 -0300" stop="20230530123000 -0300" channel="Nickelodeon">
+    <title lang="pt">Tainá e Os Guardiões da Amazônia</title>
+  </programme>
+  <programme start="20230530123000 -0300" stop="20230530130000 -0300" channel="Nickelodeon">
+    <title lang="pt">Tainá e Os Guardiões da Amazônia</title>
+  </programme>
+  <programme start="20230530130000 -0300" stop="20230530133000 -0300" channel="Nickelodeon">
+    <title lang="pt">Rugrats: Os Anjinhos</title>
+  </programme>
+  <programme start="20230530133000 -0300" stop="20230530140000 -0300" channel="Nickelodeon">
+    <title lang="pt">Os Smurfs</title>
+  </programme>
+  <programme start="20230530140000 -0300" stop="20230530143000 -0300" channel="Nickelodeon">
+    <title lang="pt">The Loud House</title>
+  </programme>
+  <programme start="20230530143000 -0300" stop="20230530150000 -0300" channel="Nickelodeon">
+    <title lang="pt">Kamp Coral: Bob Esponja, Primeiros Anos!</title>
+  </programme>
+  <programme start="20230530150000 -0300" stop="20230530153000 -0300" channel="Nickelodeon">
+    <title lang="pt">The Twisted Timeline of Sammy and Raj</title>
+  </programme>
+  <programme start="20230530153000 -0300" stop="20230530160000 -0300" channel="Nickelodeon">
+    <title lang="pt">Lego</title>
+  </programme>
+  <programme start="20230530160000 -0300" stop="20230530163000 -0300" channel="Nickelodeon">
+    <title lang="pt">Big Nate</title>
+  </programme>
+  <programme start="20230530163000 -0300" stop="20230530170000 -0300" channel="Nickelodeon">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+  </programme>
+  <programme start="20230530170000 -0300" stop="20230530173000 -0300" channel="Nickelodeon">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+  </programme>
+  <programme start="20230530173000 -0300" stop="20230530180000 -0300" channel="Nickelodeon">
+    <title lang="pt">Henry Danger</title>
+  </programme>
+  <programme start="20230530180000 -0300" stop="20230530183000 -0300" channel="Nickelodeon">
+    <title lang="pt">Henry Danger</title>
+  </programme>
+  <programme start="20230530183000 -0300" stop="20230530190000 -0300" channel="Nickelodeon">
+    <title lang="pt">Kamp Coral: Bob Esponja, Primeiros Anos!</title>
+  </programme>
+  <programme start="20230530190000 -0300" stop="20230530193000 -0300" channel="Nickelodeon">
+    <title lang="pt">The Loud House</title>
+  </programme>
+  <programme start="20230530193000 -0300" stop="20230530200000 -0300" channel="Nickelodeon">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+  </programme>
+  <programme start="20230530200000 -0300" stop="20230530203000 -0300" channel="Nickelodeon">
+    <title lang="pt">The Loud House</title>
+  </programme>
+  <programme start="20230530203000 -0300" stop="20230530210000 -0300" channel="Nickelodeon">
+    <title lang="pt">The Loud House</title>
+  </programme>
+  <programme start="20230530210000 -0300" stop="20230530213000 -0300" channel="Nickelodeon">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+  </programme>
+  <programme start="20230530213000 -0300" stop="20230530220000 -0300" channel="Nickelodeon">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+  </programme>
+  <programme start="20230530220000 -0300" stop="20230530223000 -0300" channel="Nickelodeon">
+    <title lang="pt">The Loud House</title>
+  </programme>
+  <programme start="20230530223000 -0300" stop="20230530230000 -0300" channel="Nickelodeon">
+    <title lang="pt">The Loud House</title>
+  </programme>
+  <programme start="20230530230000 -0300" stop="20230530233000 -0300" channel="Nickelodeon">
+    <title lang="pt">Força Danger</title>
+  </programme>
+  <programme start="20230530233000 -0300" stop="20230531000000 -0300" channel="Nickelodeon">
+    <title lang="pt">Força Danger</title>
+  </programme>
+  <programme start="20230531000000 -0300" stop="20230531003000 -0300" channel="Nickelodeon">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+  </programme>
+  <programme start="20230531003000 -0300" stop="20230531010000 -0300" channel="Nickelodeon">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+  </programme>
+  <programme start="20230531010000 -0300" stop="20230531013000 -0300" channel="Nickelodeon">
+    <title lang="pt">The Loud House</title>
+  </programme>
+  <programme start="20230531013000 -0300" stop="20230531020000 -0300" channel="Nickelodeon">
+    <title lang="pt">Os Thundermans</title>
+  </programme>
+  <programme start="20230531020000 -0300" stop="20230531023000 -0300" channel="Nickelodeon">
+    <title lang="pt">Os Thundermans</title>
+  </programme>
+  <programme start="20230531023000 -0300" stop="20230531030000 -0300" channel="Nickelodeon">
+    <title lang="pt">Força Danger</title>
+  </programme>
+  <programme start="20230531030000 -0300" stop="20230531033000 -0300" channel="Nickelodeon">
+    <title lang="pt">Força Danger</title>
+  </programme>
+  <programme start="20230531033000 -0300" stop="20230531040000 -0300" channel="Nickelodeon">
+    <title lang="pt">Henry Danger</title>
+  </programme>
+  <programme start="20230531040000 -0300" stop="20230531043000 -0300" channel="Nickelodeon">
+    <title lang="pt">Henry Danger</title>
+  </programme>
+  <programme start="20230531043000 -0300" stop="20230531050000 -0300" channel="Nickelodeon">
+    <title lang="pt">Os Thundermans</title>
+  </programme>
+  <programme start="20230531050000 -0300" stop="20230531053000 -0300" channel="Nickelodeon">
+    <title lang="pt">Os Thundermans</title>
+  </programme>
+  <programme start="20230531053000 -0300" stop="20230531060000 -0300" channel="Nickelodeon">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+  </programme>
+  <programme start="20230531060000 -0300" stop="20230531063000 -0300" channel="Nickelodeon">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+  </programme>
+  <programme start="20230531063000 -0300" stop="20230531070000 -0300" channel="Nickelodeon">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+  </programme>
+  <programme start="20230531070000 -0300" stop="20230531073000 -0300" channel="Nickelodeon">
+    <title lang="pt">The Loud House</title>
+  </programme>
+  <programme start="20230531073000 -0300" stop="20230531080000 -0300" channel="Nickelodeon">
+    <title lang="pt">The Loud House</title>
+  </programme>
+  <programme start="20230531080000 -0300" stop="20230531083000 -0300" channel="Nickelodeon">
+    <title lang="pt">The Loud House</title>
+  </programme>
+  <programme start="20230531083000 -0300" stop="20230531090000 -0300" channel="Nickelodeon">
+    <title lang="pt">The Loud House</title>
+  </programme>
+  <programme start="20230531090000 -0300" stop="20230531093000 -0300" channel="Nickelodeon">
+    <title lang="pt">Os Smurfs</title>
+  </programme>
+  <programme start="20230531093000 -0300" stop="20230531100000 -0300" channel="Nickelodeon">
+    <title lang="pt">Os Smurfs</title>
+  </programme>
+  <programme start="20230531100000 -0300" stop="20230531103000 -0300" channel="Nickelodeon">
+    <title lang="pt">Patrulha Canina</title>
+  </programme>
+  <programme start="20230531103000 -0300" stop="20230531110000 -0300" channel="Nickelodeon">
+    <title lang="pt">Patrulha Canina</title>
+  </programme>
+  <programme start="20230531110000 -0300" stop="20230531113000 -0300" channel="Nickelodeon">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+  </programme>
+  <programme start="20230531113000 -0300" stop="20230531120000 -0300" channel="Nickelodeon">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+  </programme>
+  <programme start="20230531120000 -0300" stop="20230531123000 -0300" channel="Nickelodeon">
+    <title lang="pt">Tainá e Os Guardiões da Amazônia</title>
+  </programme>
+  <programme start="20230531123000 -0300" stop="20230531130000 -0300" channel="Nickelodeon">
+    <title lang="pt">Tainá e Os Guardiões da Amazônia</title>
+  </programme>
+  <programme start="20230531130000 -0300" stop="20230531133000 -0300" channel="Nickelodeon">
+    <title lang="pt">Rugrats: Os Anjinhos</title>
+  </programme>
+  <programme start="20230531133000 -0300" stop="20230531140000 -0300" channel="Nickelodeon">
+    <title lang="pt">Os Smurfs</title>
+  </programme>
+  <programme start="20230531140000 -0300" stop="20230531143000 -0300" channel="Nickelodeon">
+    <title lang="pt">The Loud House</title>
+  </programme>
+  <programme start="20230531143000 -0300" stop="20230531150000 -0300" channel="Nickelodeon">
+    <title lang="pt">Kamp Coral: Bob Esponja, Primeiros Anos!</title>
+  </programme>
+  <programme start="20230531150000 -0300" stop="20230531153000 -0300" channel="Nickelodeon">
+    <title lang="pt">The Twisted Timeline of Sammy and Raj</title>
+  </programme>
+  <programme start="20230531153000 -0300" stop="20230531160000 -0300" channel="Nickelodeon">
+    <title lang="pt">Lego</title>
+  </programme>
+  <programme start="20230531160000 -0300" stop="20230531163000 -0300" channel="Nickelodeon">
+    <title lang="pt">Big Nate</title>
+  </programme>
+  <programme start="20230531163000 -0300" stop="20230531170000 -0300" channel="Nickelodeon">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+  </programme>
+  <programme start="20230531170000 -0300" stop="20230531173000 -0300" channel="Nickelodeon">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+  </programme>
+  <programme start="20230531173000 -0300" stop="20230531180000 -0300" channel="Nickelodeon">
+    <title lang="pt">Henry Danger</title>
+  </programme>
+  <programme start="20230531180000 -0300" stop="20230531183000 -0300" channel="Nickelodeon">
+    <title lang="pt">Henry Danger</title>
+  </programme>
+  <programme start="20230531183000 -0300" stop="20230531190000 -0300" channel="Nickelodeon">
+    <title lang="pt">Kamp Coral: Bob Esponja, Primeiros Anos!</title>
+  </programme>
+  <programme start="20230531190000 -0300" stop="20230531193000 -0300" channel="Nickelodeon">
+    <title lang="pt">The Loud House</title>
+  </programme>
+  <programme start="20230531193000 -0300" stop="20230531200000 -0300" channel="Nickelodeon">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+  </programme>
+  <programme start="20230531200000 -0300" stop="20230531203000 -0300" channel="Nickelodeon">
+    <title lang="pt">The Loud House</title>
+  </programme>
+  <programme start="20230531203000 -0300" stop="20230531210000 -0300" channel="Nickelodeon">
+    <title lang="pt">The Loud House</title>
+  </programme>
+  <programme start="20230531210000 -0300" stop="20230531213000 -0300" channel="Nickelodeon">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+  </programme>
+  <programme start="20230531213000 -0300" stop="20230531220000 -0300" channel="Nickelodeon">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+  </programme>
+  <programme start="20230531220000 -0300" stop="20230531223000 -0300" channel="Nickelodeon">
+    <title lang="pt">The Loud House</title>
+  </programme>
+  <programme start="20230531223000 -0300" stop="20230531230000 -0300" channel="Nickelodeon">
+    <title lang="pt">The Loud House</title>
+  </programme>
+  <programme start="20230531230000 -0300" stop="20230531233000 -0300" channel="Nickelodeon">
+    <title lang="pt">Força Danger</title>
+  </programme>
+  <programme start="20230531233000 -0300" stop="20230601000000 -0300" channel="Nickelodeon">
+    <title lang="pt">Força Danger</title>
+  </programme>
+  <programme start="20230601000000 -0300" stop="20230601003000 -0300" channel="Nickelodeon">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+  </programme>
+  <programme start="20230601003000 -0300" stop="20230601010000 -0300" channel="Nickelodeon">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+  </programme>
+  <programme start="20230601010000 -0300" stop="20230601013000 -0300" channel="Nickelodeon">
+    <title lang="pt">The Loud House</title>
+  </programme>
+  <programme start="20230601013000 -0300" stop="20230601020000 -0300" channel="Nickelodeon">
+    <title lang="pt">Os Thundermans</title>
+  </programme>
+  <programme start="20230601020000 -0300" stop="20230601023000 -0300" channel="Nickelodeon">
+    <title lang="pt">Os Thundermans</title>
+  </programme>
+  <programme start="20230601023000 -0300" stop="20230601030000 -0300" channel="Nickelodeon">
+    <title lang="pt">Força Danger</title>
+  </programme>
+  <programme start="20230601030000 -0300" stop="20230601033000 -0300" channel="Nickelodeon">
+    <title lang="pt">Força Danger</title>
+  </programme>
+  <programme start="20230601033000 -0300" stop="20230601040000 -0300" channel="Nickelodeon">
+    <title lang="pt">Henry Danger</title>
+  </programme>
+  <programme start="20230601040000 -0300" stop="20230601043000 -0300" channel="Nickelodeon">
+    <title lang="pt">Henry Danger</title>
+  </programme>
+  <programme start="20230601043000 -0300" stop="20230601050000 -0300" channel="Nickelodeon">
+    <title lang="pt">Os Thundermans</title>
+  </programme>
+  <programme start="20230601050000 -0300" stop="20230601053000 -0300" channel="Nickelodeon">
+    <title lang="pt">Os Thundermans</title>
+  </programme>
+  <programme start="20230601053000 -0300" stop="20230601060000 -0300" channel="Nickelodeon">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+  </programme>
+  <programme start="20230601060000 -0300" stop="20230601063000 -0300" channel="Nickelodeon">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+  </programme>
+  <programme start="20230601063000 -0300" stop="20230601070000 -0300" channel="Nickelodeon">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+  </programme>
+  <programme start="20230601070000 -0300" stop="20230601073000 -0300" channel="Nickelodeon">
+    <title lang="pt">The Loud House</title>
+  </programme>
+  <programme start="20230601073000 -0300" stop="20230601080000 -0300" channel="Nickelodeon">
+    <title lang="pt">The Loud House</title>
+  </programme>
+  <programme start="20230601080000 -0300" stop="20230601083000 -0300" channel="Nickelodeon">
+    <title lang="pt">The Loud House</title>
+  </programme>
+  <programme start="20230601083000 -0300" stop="20230601090000 -0300" channel="Nickelodeon">
+    <title lang="pt">The Loud House</title>
+  </programme>
+  <programme start="20230601090000 -0300" stop="20230601093000 -0300" channel="Nickelodeon">
+    <title lang="pt">Os Smurfs</title>
+  </programme>
+  <programme start="20230601093000 -0300" stop="20230601100000 -0300" channel="Nickelodeon">
+    <title lang="pt">Os Smurfs</title>
+  </programme>
+  <programme start="20230601100000 -0300" stop="20230601103000 -0300" channel="Nickelodeon">
+    <title lang="pt">Patrulha Canina</title>
+  </programme>
+  <programme start="20230601103000 -0300" stop="20230601110000 -0300" channel="Nickelodeon">
+    <title lang="pt">Patrulha Canina</title>
+  </programme>
+  <programme start="20230601110000 -0300" stop="20230601113000 -0300" channel="Nickelodeon">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+  </programme>
+  <programme start="20230601113000 -0300" stop="20230601120000 -0300" channel="Nickelodeon">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+  </programme>
+  <programme start="20230601120000 -0300" stop="20230601123000 -0300" channel="Nickelodeon">
+    <title lang="pt">Tainá e Os Guardiões da Amazônia</title>
+  </programme>
+  <programme start="20230601123000 -0300" stop="20230601130000 -0300" channel="Nickelodeon">
+    <title lang="pt">Tainá e Os Guardiões da Amazônia</title>
+  </programme>
+  <programme start="20230601130000 -0300" stop="20230601133000 -0300" channel="Nickelodeon">
+    <title lang="pt">Rugrats: Os Anjinhos</title>
+  </programme>
+  <programme start="20230601133000 -0300" stop="20230601140000 -0300" channel="Nickelodeon">
+    <title lang="pt">Os Smurfs</title>
+  </programme>
+  <programme start="20230601140000 -0300" stop="20230601143000 -0300" channel="Nickelodeon">
+    <title lang="pt">Monster High</title>
+  </programme>
+  <programme start="20230601143000 -0300" stop="20230601150000 -0300" channel="Nickelodeon">
+    <title lang="pt">Kamp Coral: Bob Esponja, Primeiros Anos!</title>
+  </programme>
+  <programme start="20230601150000 -0300" stop="20230601153000 -0300" channel="Nickelodeon">
+    <title lang="pt">The Twisted Timeline of Sammy and Raj</title>
+  </programme>
+  <programme start="20230601153000 -0300" stop="20230601160000 -0300" channel="Nickelodeon">
+    <title lang="pt">Lego</title>
+  </programme>
+  <programme start="20230601160000 -0300" stop="20230601163000 -0300" channel="Nickelodeon">
+    <title lang="pt">Big Nate</title>
+  </programme>
+  <programme start="20230601163000 -0300" stop="20230601170000 -0300" channel="Nickelodeon">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+  </programme>
+  <programme start="20230601170000 -0300" stop="20230601173000 -0300" channel="Nickelodeon">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+  </programme>
+  <programme start="20230601173000 -0300" stop="20230601180000 -0300" channel="Nickelodeon">
+    <title lang="pt">Henry Danger</title>
+  </programme>
+  <programme start="20230601180000 -0300" stop="20230601183000 -0300" channel="Nickelodeon">
+    <title lang="pt">Henry Danger</title>
+  </programme>
+  <programme start="20230601183000 -0300" stop="20230601190000 -0300" channel="Nickelodeon">
+    <title lang="pt">Kamp Coral: Bob Esponja, Primeiros Anos!</title>
+  </programme>
+  <programme start="20230601190000 -0300" stop="20230601193000 -0300" channel="Nickelodeon">
+    <title lang="pt">Monster High</title>
+  </programme>
+  <programme start="20230601193000 -0300" stop="20230601200000 -0300" channel="Nickelodeon">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+  </programme>
+  <programme start="20230601200000 -0300" stop="20230601203000 -0300" channel="Nickelodeon">
+    <title lang="pt">The Loud House</title>
+  </programme>
+  <programme start="20230601203000 -0300" stop="20230601210000 -0300" channel="Nickelodeon">
+    <title lang="pt">The Loud House</title>
+  </programme>
+  <programme start="20230601210000 -0300" stop="20230601213000 -0300" channel="Nickelodeon">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+  </programme>
+  <programme start="20230601213000 -0300" stop="20230601220000 -0300" channel="Nickelodeon">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+  </programme>
+  <programme start="20230601220000 -0300" stop="20230601223000 -0300" channel="Nickelodeon">
+    <title lang="pt">The Loud House</title>
+  </programme>
+  <programme start="20230601223000 -0300" stop="20230601230000 -0300" channel="Nickelodeon">
+    <title lang="pt">The Loud House</title>
+  </programme>
+  <programme start="20230601230000 -0300" stop="20230601233000 -0300" channel="Nickelodeon">
+    <title lang="pt">Força Danger</title>
+  </programme>
+  <programme start="20230601233000 -0300" stop="20230602000000 -0300" channel="Nickelodeon">
+    <title lang="pt">Força Danger</title>
+  </programme>
+  <programme start="20230602000000 -0300" stop="20230602003000 -0300" channel="Nickelodeon">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+  </programme>
+  <programme start="20230602003000 -0300" stop="20230602010000 -0300" channel="Nickelodeon">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+  </programme>
+  <programme start="20230602010000 -0300" stop="20230602013000 -0300" channel="Nickelodeon">
+    <title lang="pt">The Loud House</title>
+  </programme>
+  <programme start="20230602013000 -0300" stop="20230602020000 -0300" channel="Nickelodeon">
+    <title lang="pt">Os Thundermans</title>
+  </programme>
+  <programme start="20230602020000 -0300" stop="20230602023000 -0300" channel="Nickelodeon">
+    <title lang="pt">Os Thundermans</title>
+  </programme>
+  <programme start="20230602023000 -0300" stop="20230602030000 -0300" channel="Nickelodeon">
+    <title lang="pt">Força Danger</title>
+  </programme>
+  <programme start="20230602030000 -0300" stop="20230602033000 -0300" channel="Nickelodeon">
+    <title lang="pt">Força Danger</title>
+  </programme>
+  <programme start="20230602033000 -0300" stop="20230602040000 -0300" channel="Nickelodeon">
+    <title lang="pt">Henry Danger</title>
+  </programme>
+  <programme start="20230602040000 -0300" stop="20230602043000 -0300" channel="Nickelodeon">
+    <title lang="pt">Henry Danger</title>
+  </programme>
+  <programme start="20230602043000 -0300" stop="20230602050000 -0300" channel="Nickelodeon">
+    <title lang="pt">Os Thundermans</title>
+  </programme>
+  <programme start="20230602050000 -0300" stop="20230602053000 -0300" channel="Nickelodeon">
+    <title lang="pt">Os Thundermans</title>
+  </programme>
+  <programme start="20230602053000 -0300" stop="20230602060000 -0300" channel="Nickelodeon">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+  </programme>
+  <programme start="20230602060000 -0300" stop="20230602063000 -0300" channel="Nickelodeon">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+  </programme>
+  <programme start="20230602063000 -0300" stop="20230602070000 -0300" channel="Nickelodeon">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+  </programme>
+  <programme start="20230602070000 -0300" stop="20230602073000 -0300" channel="Nickelodeon">
+    <title lang="pt">The Loud House</title>
+  </programme>
+  <programme start="20230602073000 -0300" stop="20230602080000 -0300" channel="Nickelodeon">
+    <title lang="pt">The Loud House</title>
+  </programme>
+  <programme start="20230602080000 -0300" stop="20230602083000 -0300" channel="Nickelodeon">
+    <title lang="pt">The Loud House</title>
+  </programme>
+  <programme start="20230602083000 -0300" stop="20230602090000 -0300" channel="Nickelodeon">
+    <title lang="pt">The Loud House</title>
+  </programme>
+  <programme start="20230602090000 -0300" stop="20230602093000 -0300" channel="Nickelodeon">
+    <title lang="pt">Os Smurfs</title>
+  </programme>
+  <programme start="20230602093000 -0300" stop="20230602100000 -0300" channel="Nickelodeon">
+    <title lang="pt">Os Smurfs</title>
+  </programme>
+  <programme start="20230602100000 -0300" stop="20230602103000 -0300" channel="Nickelodeon">
+    <title lang="pt">Patrulha Canina</title>
+  </programme>
+  <programme start="20230602103000 -0300" stop="20230602110000 -0300" channel="Nickelodeon">
+    <title lang="pt">Patrulha Canina</title>
+  </programme>
+  <programme start="20230602110000 -0300" stop="20230602113000 -0300" channel="Nickelodeon">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+  </programme>
+  <programme start="20230602113000 -0300" stop="20230602120000 -0300" channel="Nickelodeon">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+  </programme>
+  <programme start="20230602120000 -0300" stop="20230602123000 -0300" channel="Nickelodeon">
+    <title lang="pt">Tainá e Os Guardiões da Amazônia</title>
+  </programme>
+  <programme start="20230602123000 -0300" stop="20230602130000 -0300" channel="Nickelodeon">
+    <title lang="pt">Tainá e Os Guardiões da Amazônia</title>
+  </programme>
+  <programme start="20230602130000 -0300" stop="20230602133000 -0300" channel="Nickelodeon">
+    <title lang="pt">Rugrats: Os Anjinhos</title>
+  </programme>
+  <programme start="20230602133000 -0300" stop="20230602140000 -0300" channel="Nickelodeon">
+    <title lang="pt">Os Smurfs</title>
+  </programme>
+  <programme start="20230602140000 -0300" stop="20230602143000 -0300" channel="Nickelodeon">
+    <title lang="pt">Monster High</title>
+  </programme>
+  <programme start="20230602143000 -0300" stop="20230602150000 -0300" channel="Nickelodeon">
+    <title lang="pt">Kamp Coral: Bob Esponja, Primeiros Anos!</title>
+  </programme>
+  <programme start="20230602150000 -0300" stop="20230602153000 -0300" channel="Nickelodeon">
+    <title lang="pt">The Twisted Timeline of Sammy and Raj</title>
+  </programme>
+  <programme start="20230602153000 -0300" stop="20230602160000 -0300" channel="Nickelodeon">
+    <title lang="pt">Lego</title>
+  </programme>
+  <programme start="20230602160000 -0300" stop="20230602163000 -0300" channel="Nickelodeon">
+    <title lang="pt">Rugrats: Os Anjinhos</title>
+  </programme>
+  <programme start="20230602163000 -0300" stop="20230602170000 -0300" channel="Nickelodeon">
+    <title lang="pt">Rugrats: Os Anjinhos</title>
+  </programme>
+  <programme start="20230602170000 -0300" stop="20230602173000 -0300" channel="Nickelodeon">
+    <title lang="pt">Rugrats: Os Anjinhos</title>
+  </programme>
+  <programme start="20230602173000 -0300" stop="20230602180000 -0300" channel="Nickelodeon">
+    <title lang="pt">That Girl Lay Lay</title>
+  </programme>
+  <programme start="20230602180000 -0300" stop="20230602183000 -0300" channel="Nickelodeon">
+    <title lang="pt">Tyler Perry's Young Dylan</title>
+  </programme>
+  <programme start="20230602183000 -0300" stop="20230602190000 -0300" channel="Nickelodeon">
+    <title lang="pt">Kamp Coral: Bob Esponja, Primeiros Anos!</title>
+  </programme>
+  <programme start="20230602190000 -0300" stop="20230602193000 -0300" channel="Nickelodeon">
+    <title lang="pt">Monster High</title>
+  </programme>
+  <programme start="20230602193000 -0300" stop="20230602200000 -0300" channel="Nickelodeon">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+  </programme>
+  <programme start="20230602200000 -0300" stop="20230602203000 -0300" channel="Nickelodeon">
+    <title lang="pt">The Loud House</title>
+  </programme>
+  <programme start="20230602203000 -0300" stop="20230602210000 -0300" channel="Nickelodeon">
+    <title lang="pt">The Loud House</title>
+  </programme>
+  <programme start="20230602210000 -0300" stop="20230602213000 -0300" channel="Nickelodeon">
+    <title lang="pt">That Girl Lay Lay</title>
+  </programme>
+  <programme start="20230602213000 -0300" stop="20230602220000 -0300" channel="Nickelodeon">
+    <title lang="pt">Tyler Perry's Young Dylan</title>
+  </programme>
+  <programme start="20230602220000 -0300" stop="20230602223000 -0300" channel="Nickelodeon">
+    <title lang="pt">The Loud House</title>
+  </programme>
+  <programme start="20230602223000 -0300" stop="20230602230000 -0300" channel="Nickelodeon">
+    <title lang="pt">The Loud House</title>
+  </programme>
+  <programme start="20230602230000 -0300" stop="20230602233000 -0300" channel="Nickelodeon">
+    <title lang="pt">Força Danger</title>
+  </programme>
+  <programme start="20230602233000 -0300" stop="20230603000000 -0300" channel="Nickelodeon">
+    <title lang="pt">Força Danger</title>
+  </programme>
+  <programme start="20230603000000 -0300" stop="20230603003000 -0300" channel="Nickelodeon">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+  </programme>
+  <programme start="20230603003000 -0300" stop="20230603010000 -0300" channel="Nickelodeon">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+  </programme>
+  <programme start="20230603010000 -0300" stop="20230603013000 -0300" channel="Nickelodeon">
+    <title lang="pt">The Loud House</title>
+  </programme>
+  <programme start="20230603013000 -0300" stop="20230603020000 -0300" channel="Nickelodeon">
+    <title lang="pt">Os Thundermans</title>
+  </programme>
+  <programme start="20230603020000 -0300" stop="20230603023000 -0300" channel="Nickelodeon">
+    <title lang="pt">Os Thundermans</title>
+  </programme>
+  <programme start="20230603023000 -0300" stop="20230603030000 -0300" channel="Nickelodeon">
+    <title lang="pt">Força Danger</title>
+  </programme>
+  <programme start="20230603030000 -0300" stop="20230603033000 -0300" channel="Nickelodeon">
+    <title lang="pt">Força Danger</title>
+  </programme>
+  <programme start="20230603033000 -0300" stop="20230603040000 -0300" channel="Nickelodeon">
+    <title lang="pt">Henry Danger</title>
+  </programme>
+  <programme start="20230603040000 -0300" stop="20230603043000 -0300" channel="Nickelodeon">
+    <title lang="pt">Henry Danger</title>
+  </programme>
+  <programme start="20230603043000 -0300" stop="20230603050000 -0300" channel="Nickelodeon">
+    <title lang="pt">Os Thundermans</title>
+  </programme>
+  <programme start="20230603050000 -0300" stop="20230603053000 -0300" channel="Nickelodeon">
+    <title lang="pt">Os Thundermans</title>
+  </programme>
+  <programme start="20230603053000 -0300" stop="20230603060000 -0300" channel="Nickelodeon">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+  </programme>
+  <programme start="20230603060000 -0300" stop="20230603063000 -0300" channel="Nickelodeon">
+    <title lang="pt">Patrulha Canina</title>
+  </programme>
+  <programme start="20230603063000 -0300" stop="20230603070000 -0300" channel="Nickelodeon">
+    <title lang="pt">Patrulha Canina</title>
+  </programme>
+  <programme start="20230603070000 -0300" stop="20230603073000 -0300" channel="Nickelodeon">
+    <title lang="pt">Patrulha Canina</title>
+  </programme>
+  <programme start="20230603073000 -0300" stop="20230603080000 -0300" channel="Nickelodeon">
+    <title lang="pt">Baby Shark o Grande Show</title>
+  </programme>
+  <programme start="20230603080000 -0300" stop="20230603083000 -0300" channel="Nickelodeon">
+    <title lang="pt">Patrulha Canina</title>
+  </programme>
+  <programme start="20230603083000 -0300" stop="20230603090000 -0300" channel="Nickelodeon">
+    <title lang="pt">Patrulha Canina</title>
+  </programme>
+  <programme start="20230603090000 -0300" stop="20230603093000 -0300" channel="Nickelodeon">
+    <title lang="pt">O Show Do Patrick Estrela</title>
+  </programme>
+  <programme start="20230603093000 -0300" stop="20230603100000 -0300" channel="Nickelodeon">
+    <title lang="pt">Rugrats: Os Anjinhos</title>
+  </programme>
+  <programme start="20230603100000 -0300" stop="20230603103000 -0300" channel="Nickelodeon">
+    <title lang="pt">Rugrats: Os Anjinhos</title>
+  </programme>
+  <programme start="20230603103000 -0300" stop="20230603110000 -0300" channel="Nickelodeon">
+    <title lang="pt">Big Nate</title>
+  </programme>
+  <programme start="20230603110000 -0300" stop="20230603113000 -0300" channel="Nickelodeon">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+  </programme>
+  <programme start="20230603113000 -0300" stop="20230603120000 -0300" channel="Nickelodeon">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+  </programme>
+  <programme start="20230603120000 -0300" stop="20230603123000 -0300" channel="Nickelodeon">
+    <title lang="pt">Tainá e Os Guardiões da Amazônia</title>
+  </programme>
+  <programme start="20230603123000 -0300" stop="20230603130000 -0300" channel="Nickelodeon">
+    <title lang="pt">Kamp Coral: Bob Esponja, Primeiros Anos!</title>
+  </programme>
+  <programme start="20230603130000 -0300" stop="20230603133000 -0300" channel="Nickelodeon">
+    <title lang="pt">Os Casagrandes</title>
+  </programme>
+  <programme start="20230603133000 -0300" stop="20230603140000 -0300" channel="Nickelodeon">
+    <title lang="pt">Monster High</title>
+  </programme>
+  <programme start="20230603140000 -0300" stop="20230603143000 -0300" channel="Nickelodeon">
+    <title lang="pt">O Show Do Patrick Estrela</title>
+  </programme>
+  <programme start="20230603143000 -0300" stop="20230603150000 -0300" channel="Nickelodeon">
+    <title lang="pt">Os Smurfs</title>
+  </programme>
+  <programme start="20230603150000 -0300" stop="20230603153000 -0300" channel="Nickelodeon">
+    <title lang="pt">Rugrats: Os Anjinhos</title>
+  </programme>
+  <programme start="20230603153000 -0300" stop="20230603160000 -0300" channel="Nickelodeon">
+    <title lang="pt">Kamp Coral: Bob Esponja, Primeiros Anos!</title>
+  </programme>
+  <programme start="20230603160000 -0300" stop="20230603163000 -0300" channel="Nickelodeon">
+    <title lang="pt">O Show Do Patrick Estrela</title>
+  </programme>
+  <programme start="20230603163000 -0300" stop="20230603170000 -0300" channel="Nickelodeon">
+    <title lang="pt">Star Trek: Prodigy</title>
+  </programme>
+  <programme start="20230603170000 -0300" stop="20230603173000 -0300" channel="Nickelodeon">
+    <title lang="pt">Transformers: A Centelha Da Terra</title>
+  </programme>
+  <programme start="20230603173000 -0300" stop="20230603180000 -0300" channel="Nickelodeon">
+    <title lang="pt">Transformers: A Centelha Da Terra</title>
+  </programme>
+  <programme start="20230603180000 -0300" stop="20230603183000 -0300" channel="Nickelodeon">
+    <title lang="pt">That Girl Lay Lay</title>
+  </programme>
+  <programme start="20230603183000 -0300" stop="20230603190000 -0300" channel="Nickelodeon">
+    <title lang="pt">Tyler Perry's Young Dylan</title>
+  </programme>
+  <programme start="20230603190000 -0300" stop="20230603193000 -0300" channel="Nickelodeon">
+    <title lang="pt">The Really Loud House</title>
+  </programme>
+  <programme start="20230603193000 -0300" stop="20230603200000 -0300" channel="Nickelodeon">
+    <title lang="pt">Força Danger</title>
+  </programme>
+  <programme start="20230603200000 -0300" stop="20230603203000 -0300" channel="Nickelodeon">
+    <title lang="pt">Força Danger</title>
+  </programme>
+  <programme start="20230603203000 -0300" stop="20230603210000 -0300" channel="Nickelodeon">
+    <title lang="pt">Henry Danger</title>
+  </programme>
+  <programme start="20230603210000 -0300" stop="20230603213000 -0300" channel="Nickelodeon">
+    <title lang="pt">O Show Do Patrick Estrela</title>
+  </programme>
+  <programme start="20230603213000 -0300" stop="20230603220000 -0300" channel="Nickelodeon">
+    <title lang="pt">O Show Do Patrick Estrela</title>
+  </programme>
+  <programme start="20230603220000 -0300" stop="20230603223000 -0300" channel="Nickelodeon">
+    <title lang="pt">Best &amp; Bester: Cada Forma Uma Aventura</title>
+  </programme>
+  <programme start="20230603223000 -0300" stop="20230603230000 -0300" channel="Nickelodeon">
+    <title lang="pt">Best &amp; Bester: Cada Forma Uma Aventura</title>
+  </programme>
+  <programme start="20230603230000 -0300" stop="20230603233000 -0300" channel="Nickelodeon">
+    <title lang="pt">Transformers: A Centelha Da Terra</title>
+  </programme>
+  <programme start="20230603233000 -0300" stop="20230604000000 -0300" channel="Nickelodeon">
+    <title lang="pt">Transformers: A Centelha Da Terra</title>
+  </programme>
+  <programme start="20230604000000 -0300" stop="20230604003000 -0300" channel="Nickelodeon">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+  </programme>
+  <programme start="20230604003000 -0300" stop="20230604010000 -0300" channel="Nickelodeon">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+  </programme>
+  <programme start="20230604010000 -0300" stop="20230604013000 -0300" channel="Nickelodeon">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+  </programme>
+  <programme start="20230604013000 -0300" stop="20230604020000 -0300" channel="Nickelodeon">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+  </programme>
+  <programme start="20230604020000 -0300" stop="20230604023000 -0300" channel="Nickelodeon">
+    <title lang="pt">Henry Danger</title>
+  </programme>
+  <programme start="20230604023000 -0300" stop="20230604030000 -0300" channel="Nickelodeon">
+    <title lang="pt">Henry Danger</title>
+  </programme>
+  <programme start="20230604030000 -0300" stop="20230604033000 -0300" channel="Nickelodeon">
+    <title lang="pt">Henry Danger</title>
+  </programme>
+  <programme start="20230604033000 -0300" stop="20230604040000 -0300" channel="Nickelodeon">
+    <title lang="pt">Henry Danger</title>
+  </programme>
+  <programme start="20230604040000 -0300" stop="20230604043000 -0300" channel="Nickelodeon">
+    <title lang="pt">Henry Danger</title>
+  </programme>
+  <programme start="20230604043000 -0300" stop="20230604050000 -0300" channel="Nickelodeon">
+    <title lang="pt">The Loud House</title>
+  </programme>
+  <programme start="20230604050000 -0300" stop="20230604053000 -0300" channel="Nickelodeon">
+    <title lang="pt">The Loud House</title>
+  </programme>
+  <programme start="20230604053000 -0300" stop="20230604060000 -0300" channel="Nickelodeon">
+    <title lang="pt">The Loud House</title>
+  </programme>
+  <programme start="20230604060000 -0300" stop="20230604063000 -0300" channel="Nickelodeon">
+    <title lang="pt">Best &amp; Bester: Cada Forma Uma Aventura</title>
+  </programme>
+  <programme start="20230604063000 -0300" stop="20230604070000 -0300" channel="Nickelodeon">
+    <title lang="pt">Best &amp; Bester: Cada Forma Uma Aventura</title>
+  </programme>
+  <programme start="20230604070000 -0300" stop="20230604073000 -0300" channel="Nickelodeon">
+    <title lang="pt">Best &amp; Bester: Cada Forma Uma Aventura</title>
+  </programme>
+  <programme start="20230604073000 -0300" stop="20230604080000 -0300" channel="Nickelodeon">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+  </programme>
+  <programme start="20230604080000 -0300" stop="20230604083000 -0300" channel="Nickelodeon">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+  </programme>
+  <programme start="20230604083000 -0300" stop="20230604090000 -0300" channel="Nickelodeon">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+  </programme>
+  <programme start="20230604090000 -0300" stop="20230604093000 -0300" channel="Nickelodeon">
+    <title lang="pt">Rugrats: Os Anjinhos</title>
+  </programme>
+  <programme start="20230604093000 -0300" stop="20230604100000 -0300" channel="Nickelodeon">
+    <title lang="pt">Rugrats: Os Anjinhos</title>
+  </programme>
+  <programme start="20230604100000 -0300" stop="20230604103000 -0300" channel="Nickelodeon">
+    <title lang="pt">Rugrats: Os Anjinhos</title>
+  </programme>
+  <programme start="20230604103000 -0300" stop="20230604110000 -0300" channel="Nickelodeon">
+    <title lang="pt">Kamp Coral: Bob Esponja, Primeiros Anos!</title>
+  </programme>
+  <programme start="20230604110000 -0300" stop="20230604113000 -0300" channel="Nickelodeon">
+    <title lang="pt">Kamp Coral: Bob Esponja, Primeiros Anos!</title>
+  </programme>
+  <programme start="20230604113000 -0300" stop="20230604120000 -0300" channel="Nickelodeon">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+  </programme>
+  <programme start="20230604120000 -0300" stop="20230604123000 -0300" channel="Nickelodeon">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+  </programme>
+  <programme start="20230604123000 -0300" stop="20230604130000 -0300" channel="Nickelodeon">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+  </programme>
+  <programme start="20230604130000 -0300" stop="20230604133000 -0300" channel="Nickelodeon">
+    <title lang="pt">Bob Esponja, Calça Quadrada</title>
+  </programme>
+  <programme start="20230604133000 -0300" stop="20230604140000 -0300" channel="Nickelodeon">
+    <title lang="pt">Star Trek: Prodigy</title>
+  </programme>
+  <programme start="20230604140000 -0300" stop="20230604143000 -0300" channel="Nickelodeon">
+    <title lang="pt">Transformers: A Centelha Da Terra</title>
+  </programme>
+  <programme start="20230604143000 -0300" stop="20230604150000 -0300" channel="Nickelodeon">
+    <title lang="pt">Os Casagrandes</title>
+  </programme>
+  <programme start="20230604150000 -0300" stop="20230604153000 -0300" channel="Nickelodeon">
+    <title lang="pt">O Show Do Patrick Estrela</title>
+  </programme>
+  <programme start="20230604153000 -0300" stop="20230604160000 -0300" channel="Nickelodeon">
+    <title lang="pt">O Show Do Patrick Estrela</title>
+  </programme>
+  <programme start="20230604160000 -0300" stop="20230604163000 -0300" channel="Nickelodeon">
+    <title lang="pt">Kamp Coral: Bob Esponja, Primeiros Anos!</title>
+  </programme>
+  <programme start="20230604163000 -0300" stop="20230604170000 -0300" channel="Nickelodeon">
+    <title lang="pt">Kamp Coral: Bob Esponja, Primeiros Anos!</title>
+  </programme>
+  <programme start="20230604170000 -0300" stop="20230604173000 -0300" channel="Nickelodeon">
+    <title lang="pt">Rugrats: Os Anjinhos</title>
+  </programme>
+  <programme start="20230604173000 -0300" stop="20230604180000 -0300" channel="Nickelodeon">
+    <title lang="pt">Rugrats: Os Anjinhos</title>
+  </programme>
+  <programme start="20230604180000 -0300" stop="20230604183000 -0300" channel="Nickelodeon">
+    <title lang="pt">Monster High</title>
+  </programme>
+  <programme start="20230604183000 -0300" stop="20230604190000 -0300" channel="Nickelodeon">
+    <title lang="pt">That Girl Lay Lay</title>
+  </programme>
+  <programme start="20230604190000 -0300" stop="20230604193000 -0300" channel="Nickelodeon">
+    <title lang="pt">Tyler Perry's Young Dylan</title>
+  </programme>
+  <programme start="20230604193000 -0300" stop="20230604200000 -0300" channel="Nickelodeon">
+    <title lang="pt">The Really Loud House</title>
+  </programme>
+  <programme start="20230604200000 -0300" stop="20230604203000 -0300" channel="Nickelodeon">
+    <title lang="pt">Força Danger</title>
+  </programme>
+  <programme start="20230604203000 -0300" stop="20230604210000 -0300" channel="Nickelodeon">
+    <title lang="pt">Força Danger</title>
+  </programme>
+  <programme start="20230604210000 -0300" stop="20230604213000 -0300" channel="Nickelodeon">
+    <title lang="pt">O Show Do Patrick Estrela</title>
+  </programme>
+  <programme start="20230604213000 -0300" stop="20230604220000 -0300" channel="Nickelodeon">
+    <title lang="pt">O Show Do Patrick Estrela</title>
+  </programme>
+  <programme start="20230604220000 -0300" stop="20230604223000 -0300" channel="Nickelodeon">
+    <title lang="pt">Best &amp; Bester: Cada Forma Uma Aventura</title>
+  </programme>
+  <programme start="20230604223000 -0300" stop="20230604230000 -0300" channel="Nickelodeon">
+    <title lang="pt">Best &amp; Bester: Cada Forma Uma Aventura</title>
+  </programme>
+  <programme start="20230604230000 -0300" stop="20230604233000 -0300" channel="Nickelodeon">
+    <title lang="pt">The Loud House</title>
+  </programme>
+  <programme start="20230528085500 -0300" stop="20230528120000 -0300" channel="Telecine Touch">
+    <title lang="pt">Encontro Marcado (1998)</title>
+  </programme>
+  <programme start="20230528120000 -0300" stop="20230528134500 -0300" channel="Telecine Touch">
+    <title lang="pt">Deserto do Ouro</title>
+  </programme>
+  <programme start="20230528134500 -0300" stop="20230528155000 -0300" channel="Telecine Touch">
+    <title lang="pt">E.t.</title>
+  </programme>
+  <programme start="20230528155000 -0300" stop="20230528181500 -0300" channel="Telecine Touch">
+    <title lang="pt">Coach Carter</title>
+  </programme>
+  <programme start="20230528181500 -0300" stop="20230528201500 -0300" channel="Telecine Touch">
+    <title lang="pt">Ela Dança, Eu Danço 5</title>
+  </programme>
+  <programme start="20230528201500 -0300" stop="20230528220000 -0300" channel="Telecine Touch">
+    <title lang="pt">E Se Fosse Verdade</title>
+  </programme>
+  <programme start="20230528220000 -0300" stop="20230528235500 -0300" channel="Telecine Touch">
+    <title lang="pt">Sexo Sem Compromisso</title>
+  </programme>
+  <programme start="20230528235500 -0300" stop="20230529015500 -0300" channel="Telecine Touch">
+    <title lang="pt">Bruna Surfistinha</title>
+  </programme>
+  <programme start="20230529015500 -0300" stop="20230529040500 -0300" channel="Telecine Touch">
+    <title lang="pt">O Natal dos Amigos Indiscretos</title>
+  </programme>
+  <programme start="20230529040500 -0300" stop="20230529060500 -0300" channel="Telecine Touch">
+    <title lang="pt">Submersão</title>
+  </programme>
+  <programme start="20230529060500 -0300" stop="20230529075500 -0300" channel="Telecine Touch">
+    <title lang="pt">Ferrugem</title>
+  </programme>
+  <programme start="20230529075500 -0300" stop="20230529094000 -0300" channel="Telecine Touch">
+    <title lang="pt">Surto</title>
+  </programme>
+  <programme start="20230529094000 -0300" stop="20230529112500 -0300" channel="Telecine Touch">
+    <title lang="pt">Juntos</title>
+  </programme>
+  <programme start="20230529112500 -0300" stop="20230529131000 -0300" channel="Telecine Touch">
+    <title lang="pt">Albatroz</title>
+  </programme>
+  <programme start="20230529131000 -0300" stop="20230529145500 -0300" channel="Telecine Touch">
+    <title lang="pt">Garota Mimada</title>
+  </programme>
+  <programme start="20230529145500 -0300" stop="20230529162500 -0300" channel="Telecine Touch">
+    <title lang="pt">Muito Bem Acompanhada</title>
+  </programme>
+  <programme start="20230529162500 -0300" stop="20230529184000 -0300" channel="Telecine Touch">
+    <title lang="pt">Gênio Indomável</title>
+  </programme>
+  <programme start="20230529184000 -0300" stop="20230529202000 -0300" channel="Telecine Touch">
+    <title lang="pt">Justiça Além do Sistema</title>
+  </programme>
+  <programme start="20230529202000 -0300" stop="20230529220000 -0300" channel="Telecine Touch">
+    <title lang="pt">Sob Pressão</title>
+  </programme>
+  <programme start="20230529220000 -0300" stop="20230530001000 -0300" channel="Telecine Touch">
+    <title lang="pt">Até o Fim</title>
+  </programme>
+  <programme start="20230530001000 -0300" stop="20230530023000 -0300" channel="Telecine Touch">
+    <title lang="pt">O Amor Não Tira Férias</title>
+  </programme>
+  <programme start="20230530023000 -0300" stop="20230530042500 -0300" channel="Telecine Touch">
+    <title lang="pt">Alice e o Prefeito</title>
+  </programme>
+  <programme start="20230530042500 -0300" stop="20230530062000 -0300" channel="Telecine Touch">
+    <title lang="pt">Lima Barreto, ao Terceiro Dia</title>
+  </programme>
+  <programme start="20230530062000 -0300" stop="20230530083500 -0300" channel="Telecine Touch">
+    <title lang="pt">O Gênio e o Louco</title>
+  </programme>
+  <programme start="20230530083500 -0300" stop="20230530101000 -0300" channel="Telecine Touch">
+    <title lang="pt">Felicidade Sob a Árvore de Natal</title>
+  </programme>
+  <programme start="20230530101000 -0300" stop="20230530121000 -0300" channel="Telecine Touch">
+    <title lang="pt">Intocáveis</title>
+  </programme>
+  <programme start="20230530121000 -0300" stop="20230530141000 -0300" channel="Telecine Touch">
+    <title lang="pt">Ela Dança, Eu Danço 5</title>
+  </programme>
+  <programme start="20230530141000 -0300" stop="20230530155500 -0300" channel="Telecine Touch">
+    <title lang="pt">Casamento Grego 2</title>
+  </programme>
+  <programme start="20230530155500 -0300" stop="20230530175500 -0300" channel="Telecine Touch">
+    <title lang="pt">Sexo Sem Compromisso</title>
+  </programme>
+  <programme start="20230530175500 -0300" stop="20230530200000 -0300" channel="Telecine Touch">
+    <title lang="pt">Chacrinha</title>
+  </programme>
+  <programme start="20230530200000 -0300" stop="20230530220000 -0300" channel="Telecine Touch">
+    <title lang="pt">Top Gun: Ases Indomáveis</title>
+  </programme>
+  <programme start="20230530220000 -0300" stop="20230530235500 -0300" channel="Telecine Touch">
+    <title lang="pt">O Livro De Henry</title>
+  </programme>
+  <programme start="20230530235500 -0300" stop="20230531022000 -0300" channel="Telecine Touch">
+    <title lang="pt">Invencível (2014)</title>
+  </programme>
+  <programme start="20230531022000 -0300" stop="20230531040500 -0300" channel="Telecine Touch">
+    <title lang="pt">Pornô Para Principiantes</title>
+  </programme>
+  <programme start="20230531040500 -0300" stop="20230531060500 -0300" channel="Telecine Touch">
+    <title lang="pt">Bruna Surfistinha</title>
+  </programme>
+  <programme start="20230531060500 -0300" stop="20230531081000 -0300" channel="Telecine Touch">
+    <title lang="pt">100 Dias Para o Natal</title>
+  </programme>
+  <programme start="20230531081000 -0300" stop="20230531100500 -0300" channel="Telecine Touch">
+    <title lang="pt">Alice e o Prefeito</title>
+  </programme>
+  <programme start="20230531100500 -0300" stop="20230531121500 -0300" channel="Telecine Touch">
+    <title lang="pt">O Natal dos Amigos Indiscretos</title>
+  </programme>
+  <programme start="20230531121500 -0300" stop="20230531135000 -0300" channel="Telecine Touch">
+    <title lang="pt">Sob Pressão</title>
+  </programme>
+  <programme start="20230531135000 -0300" stop="20230531153500 -0300" channel="Telecine Touch">
+    <title lang="pt">E Se Fosse Verdade</title>
+  </programme>
+  <programme start="20230531153500 -0300" stop="20230531180000 -0300" channel="Telecine Touch">
+    <title lang="pt">O Amor Não Tira Férias</title>
+  </programme>
+  <programme start="20230531180000 -0300" stop="20230531180500 -0300" channel="Telecine Touch">
+    <title lang="pt">Preview no Touch</title>
+  </programme>
+  <programme start="20230531180500 -0300" stop="20230531201500 -0300" channel="Telecine Touch">
+    <title lang="pt">Até o Fim</title>
+  </programme>
+  <programme start="20230531201500 -0300" stop="20230531220000 -0300" channel="Telecine Touch">
+    <title lang="pt">Um Milagre Inesperado</title>
+  </programme>
+  <programme start="20230531220000 -0300" stop="20230601002000 -0300" channel="Telecine Touch">
+    <title lang="pt">A Cabana</title>
+  </programme>
+  <programme start="20230601002000 -0300" stop="20230601022000 -0300" channel="Telecine Touch">
+    <title lang="pt">Ainda Há Tempo</title>
+  </programme>
+  <programme start="20230601022000 -0300" stop="20230601040500 -0300" channel="Telecine Touch">
+    <title lang="pt">O Que Resta</title>
+  </programme>
+  <programme start="20230601040500 -0300" stop="20230601055000 -0300" channel="Telecine Touch">
+    <title lang="pt">Surto</title>
+  </programme>
+  <programme start="20230601055000 -0300" stop="20230601075500 -0300" channel="Telecine Touch">
+    <title lang="pt">A Fortuna Desafia a Morte</title>
+  </programme>
+  <programme start="20230601075500 -0300" stop="20230601092000 -0300" channel="Telecine Touch">
+    <title lang="pt">Volume Morto</title>
+  </programme>
+  <programme start="20230601092000 -0300" stop="20230601105000 -0300" channel="Telecine Touch">
+    <title lang="pt">Os Segredos da Oligarquia: Esposas</title>
+  </programme>
+  <programme start="20230601105000 -0300" stop="20230601124000 -0300" channel="Telecine Touch">
+    <title lang="pt">O Livro De Henry</title>
+  </programme>
+  <programme start="20230601124000 -0300" stop="20230601143000 -0300" channel="Telecine Touch">
+    <title lang="pt">Jornada da Vida</title>
+  </programme>
+  <programme start="20230601143000 -0300" stop="20230601161500 -0300" channel="Telecine Touch">
+    <title lang="pt">Uma Prova de Fé 2: Voltando Para Casa</title>
+  </programme>
+  <programme start="20230601161500 -0300" stop="20230601175000 -0300" channel="Telecine Touch">
+    <title lang="pt">Amor, Luzes, Festas!</title>
+  </programme>
+  <programme start="20230601175000 -0300" stop="20230601195000 -0300" channel="Telecine Touch">
+    <title lang="pt">A Saga Crepúsculo: Amanhecer</title>
+  </programme>
+  <programme start="20230601195000 -0300" stop="20230601220000 -0300" channel="Telecine Touch">
+    <title lang="pt">Quando Encontrei Você</title>
+  </programme>
+  <programme start="20230601220000 -0300" stop="20230601235000 -0300" channel="Telecine Touch">
+    <title lang="pt">Filmes Que Amamos: Cartas Para Julieta</title>
+  </programme>
+  <programme start="20230601235000 -0300" stop="20230602013500 -0300" channel="Telecine Touch">
+    <title lang="pt">Ela é Demais</title>
+  </programme>
+  <programme start="20230602013500 -0300" stop="20230602033000 -0300" channel="Telecine Touch">
+    <title lang="pt">Alice e o Prefeito</title>
+  </programme>
+  <programme start="20230602033000 -0300" stop="20230602051500 -0300" channel="Telecine Touch">
+    <title lang="pt">Meio Irmão</title>
+  </programme>
+  <programme start="20230602051500 -0300" stop="20230602070000 -0300" channel="Telecine Touch">
+    <title lang="pt">Filth</title>
+  </programme>
+  <programme start="20230602070000 -0300" stop="20230602083500 -0300" channel="Telecine Touch">
+    <title lang="pt">O Resgate de Uma Vida</title>
+  </programme>
+  <programme start="20230602083500 -0300" stop="20230602101500 -0300" channel="Telecine Touch">
+    <title lang="pt">Jean Charles</title>
+  </programme>
+  <programme start="20230602101500 -0300" stop="20230602115000 -0300" channel="Telecine Touch">
+    <title lang="pt">Uma Proposta Natalina</title>
+  </programme>
+  <programme start="20230602115000 -0300" stop="20230602134000 -0300" channel="Telecine Touch">
+    <title lang="pt">Correndo Por Um Sonho</title>
+  </programme>
+  <programme start="20230602134000 -0300" stop="20230602154000 -0300" channel="Telecine Touch">
+    <title lang="pt">Top Gun: Ases Indomáveis</title>
+  </programme>
+  <programme start="20230602154000 -0300" stop="20230602174500 -0300" channel="Telecine Touch">
+    <title lang="pt">Através do Fogo</title>
+  </programme>
+  <programme start="20230602174500 -0300" stop="20230602195000 -0300" channel="Telecine Touch">
+    <title lang="pt">Elis</title>
+  </programme>
+  <programme start="20230602195000 -0300" stop="20230602220000 -0300" channel="Telecine Touch">
+    <title lang="pt">Conduta de Risco</title>
+  </programme>
+  <programme start="20230602220000 -0300" stop="20230603000000 -0300" channel="Telecine Touch">
+    <title lang="pt">Você Pertence a Mim</title>
+  </programme>
+  <programme start="20230603000000 -0300" stop="20230603015500 -0300" channel="Telecine Touch">
+    <title lang="pt">Mulheres ao Poder</title>
+  </programme>
+  <programme start="20230603015500 -0300" stop="20230603033500 -0300" channel="Telecine Touch">
+    <title lang="pt">É Hora de Passar o Natal em Casa</title>
+  </programme>
+  <programme start="20230603033500 -0300" stop="20230603052000 -0300" channel="Telecine Touch">
+    <title lang="pt">O Mistério da Fé</title>
+  </programme>
+  <programme start="20230603052000 -0300" stop="20230603072500 -0300" channel="Telecine Touch">
+    <title lang="pt">Salyut 7: Missão Espacial</title>
+  </programme>
+  <programme start="20230603072500 -0300" stop="20230603092000 -0300" channel="Telecine Touch">
+    <title lang="pt">Alice e o Prefeito</title>
+  </programme>
+  <programme start="20230603092000 -0300" stop="20230603105500 -0300" channel="Telecine Touch">
+    <title lang="pt">Amor, Luzes, Festas!</title>
+  </programme>
+  <programme start="20230603105500 -0300" stop="20230603130000 -0300" channel="Telecine Touch">
+    <title lang="pt">Quando Encontrei Você</title>
+  </programme>
+  <programme start="20230603130000 -0300" stop="20230603152000 -0300" channel="Telecine Touch">
+    <title lang="pt">A Cabana</title>
+  </programme>
+  <programme start="20230603152000 -0300" stop="20230603175000 -0300" channel="Telecine Touch">
+    <title lang="pt">Apollo 13</title>
+  </programme>
+  <programme start="20230603175000 -0300" stop="20230603194500 -0300" channel="Telecine Touch">
+    <title lang="pt">Cartas Para Julieta</title>
+  </programme>
+  <programme start="20230603194500 -0300" stop="20230603220000 -0300" channel="Telecine Touch">
+    <title lang="pt">Questão De Tempo</title>
+  </programme>
+  <programme start="20230603220000 -0300" stop="20230603235500 -0300" channel="Telecine Touch">
+    <title lang="pt">Dança Comigo?</title>
+  </programme>
+  <programme start="20230603235500 -0300" stop="20230604000000 -0300" channel="Telecine Touch">
+    <title lang="pt">Preview no Touch</title>
+  </programme>
+  <programme start="20230604000000 -0300" stop="20230604020000 -0300" channel="Telecine Touch">
+    <title lang="pt">Footloose (2011)</title>
+  </programme>
+  <programme start="20230604020000 -0300" stop="20230604035500 -0300" channel="Telecine Touch">
+    <title lang="pt">A Saga Crepúsculo: Amanhecer</title>
+  </programme>
+  <programme start="20230604035500 -0300" stop="20230604052000 -0300" channel="Telecine Touch">
+    <title lang="pt">Volume Morto</title>
+  </programme>
+  <programme start="20230604052000 -0300" stop="20230604071000 -0300" channel="Telecine Touch">
+    <title lang="pt">Jornada da Vida</title>
+  </programme>
+  <programme start="20230604071000 -0300" stop="20230604084500 -0300" channel="Telecine Touch">
+    <title lang="pt">É Hora de Passar o Natal em Casa</title>
+  </programme>
+  <programme start="20230604084500 -0300" stop="20230604102500 -0300" channel="Telecine Touch">
+    <title lang="pt">Uma Prova de Fé 2: Voltando Para Casa</title>
+  </programme>
+  <programme start="20230604102500 -0300" stop="20230604123000 -0300" channel="Telecine Touch">
+    <title lang="pt">Através do Fogo</title>
+  </programme>
+  <programme start="20230604123000 -0300" stop="20230604144000 -0300" channel="Telecine Touch">
+    <title lang="pt">Conduta de Risco</title>
+  </programme>
+  <programme start="20230604144000 -0300" stop="20230604163500 -0300" channel="Telecine Touch">
+    <title lang="pt">Mulheres ao Poder</title>
+  </programme>
+  <programme start="20230604163500 -0300" stop="20230604183000 -0300" channel="Telecine Touch">
+    <title lang="pt">As Vantagens De Ser Invisível</title>
+  </programme>
+  <programme start="20230604183000 -0300" stop="20230604201500 -0300" channel="Telecine Touch">
+    <title lang="pt">Ela é Demais</title>
+  </programme>
+  <programme start="20230604201500 -0300" stop="20230604220000 -0300" channel="Telecine Touch">
+    <title lang="pt">A Filha do Rei</title>
+  </programme>
+  <programme start="20230528100500 -0300" stop="20230528123000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Milagre na Cela 7</title>
+  </programme>
+  <programme start="20230528123000 -0300" stop="20230528143000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Entrando Numa Fria</title>
+  </programme>
+  <programme start="20230528143000 -0300" stop="20230528161500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Ameaça a Bordo</title>
+  </programme>
+  <programme start="20230528161500 -0300" stop="20230528182000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">A Identidade Bourne</title>
+  </programme>
+  <programme start="20230528182000 -0300" stop="20230528200000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">A Bruxa</title>
+  </programme>
+  <programme start="20230528200000 -0300" stop="20230528221000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Sessão Superestreia: Hellraiser</title>
+  </programme>
+  <programme start="20230528221000 -0300" stop="20230528235000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">A Fera (2022)</title>
+  </programme>
+  <programme start="20230528235000 -0300" stop="20230529015500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Indiana Jones E Os Caçadores Da Arca Perdida</title>
+  </programme>
+  <programme start="20230529015500 -0300" stop="20230529035500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Red 2</title>
+  </programme>
+  <programme start="20230529035500 -0300" stop="20230529060000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Os 3 Infernais</title>
+  </programme>
+  <programme start="20230529060000 -0300" stop="20230529073500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">O Assassinato de Nicole Brown Simpson</title>
+  </programme>
+  <programme start="20230529073500 -0300" stop="20230529091500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Fallen</title>
+  </programme>
+  <programme start="20230529091500 -0300" stop="20230529110000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Três Verões</title>
+  </programme>
+  <programme start="20230529110000 -0300" stop="20230529125000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Decisão De Risco</title>
+  </programme>
+  <programme start="20230529125000 -0300" stop="20230529142500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Ip Man: O Mestre do Kung Fu</title>
+  </programme>
+  <programme start="20230529142500 -0300" stop="20230529155000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Disputa de Sangue</title>
+  </programme>
+  <programme start="20230529155000 -0300" stop="20230529180000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">A Múmia (1999)</title>
+  </programme>
+  <programme start="20230529180000 -0300" stop="20230529194500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Emily, a Criminosa</title>
+  </programme>
+  <programme start="20230529194500 -0300" stop="20230529220000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">John Wick 3</title>
+  </programme>
+  <programme start="20230529220000 -0300" stop="20230529235500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Gêmeo Maligno</title>
+  </programme>
+  <programme start="20230529235500 -0300" stop="20230530015000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Infinito</title>
+  </programme>
+  <programme start="20230530015000 -0300" stop="20230530034000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Os Mercenários</title>
+  </programme>
+  <programme start="20230530034000 -0300" stop="20230530054500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">O Contador de Cartas</title>
+  </programme>
+  <programme start="20230530054500 -0300" stop="20230530073500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">O Último Jogo</title>
+  </programme>
+  <programme start="20230530073500 -0300" stop="20230530092500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Papai Noel &amp; Companhia</title>
+  </programme>
+  <programme start="20230530092500 -0300" stop="20230530111000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Ameaça a Bordo</title>
+  </programme>
+  <programme start="20230530111000 -0300" stop="20230530131500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Indiana Jones E Os Caçadores Da Arca Perdida</title>
+  </programme>
+  <programme start="20230530131500 -0300" stop="20230530150000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">A Um Clique de Distância</title>
+  </programme>
+  <programme start="20230530150000 -0300" stop="20230530165000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Mar em Chamas</title>
+  </programme>
+  <programme start="20230530165000 -0300" stop="20230530182500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Centro de Trauma</title>
+  </programme>
+  <programme start="20230530182500 -0300" stop="20230530201000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Amado</title>
+  </programme>
+  <programme start="20230530201000 -0300" stop="20230530220000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Ajuste de Contas (2019)</title>
+  </programme>
+  <programme start="20230530220000 -0300" stop="20230531001000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">O Perdoado</title>
+  </programme>
+  <programme start="20230531001000 -0300" stop="20230531023000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Amor de Redenção</title>
+  </programme>
+  <programme start="20230531023000 -0300" stop="20230531043000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Cidade Louca</title>
+  </programme>
+  <programme start="20230531043000 -0300" stop="20230531063000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Red 2</title>
+  </programme>
+  <programme start="20230531063000 -0300" stop="20230531083000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Um Funeral em Família</title>
+  </programme>
+  <programme start="20230531083000 -0300" stop="20230531110000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Graças a Deus</title>
+  </programme>
+  <programme start="20230531110000 -0300" stop="20230531124500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">A Última Chance</title>
+  </programme>
+  <programme start="20230531124500 -0300" stop="20230531141500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Renascida Do Inferno</title>
+  </programme>
+  <programme start="20230531141500 -0300" stop="20230531155000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Ameaça Explosiva</title>
+  </programme>
+  <programme start="20230531155000 -0300" stop="20230531175000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">A Máquina Infernal</title>
+  </programme>
+  <programme start="20230531175000 -0300" stop="20230531201000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Cidade de Deus</title>
+  </programme>
+  <programme start="20230531201000 -0300" stop="20230531220000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Infinito</title>
+  </programme>
+  <programme start="20230531220000 -0300" stop="20230601001000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Sessão Superestreia: Hellraiser</title>
+  </programme>
+  <programme start="20230601001000 -0300" stop="20230601020500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Tempo</title>
+  </programme>
+  <programme start="20230601020500 -0300" stop="20230601040000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Gêmeo Maligno</title>
+  </programme>
+  <programme start="20230601040000 -0300" stop="20230601060500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Rasga Coração</title>
+  </programme>
+  <programme start="20230601060500 -0300" stop="20230601080500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Retrato do Amor</title>
+  </programme>
+  <programme start="20230601080500 -0300" stop="20230601094000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">L.o.c.a.</title>
+  </programme>
+  <programme start="20230601094000 -0300" stop="20230601112500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Os Incompatíveis</title>
+  </programme>
+  <programme start="20230601112500 -0300" stop="20230601130500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Casamento Grego 2</title>
+  </programme>
+  <programme start="20230601130500 -0300" stop="20230601150500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">A Escolha Perfeita (2012)</title>
+  </programme>
+  <programme start="20230601150500 -0300" stop="20230601165500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">O Palestrante</title>
+  </programme>
+  <programme start="20230601165500 -0300" stop="20230601185000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">O Pior Jogador de Golfe do Mundo</title>
+  </programme>
+  <programme start="20230601185000 -0300" stop="20230601202500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">O Mentiroso</title>
+  </programme>
+  <programme start="20230601202500 -0300" stop="20230601220000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Minha Família Perfeita</title>
+  </programme>
+  <programme start="20230601220000 -0300" stop="20230601235000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">A Grande Muralha</title>
+  </programme>
+  <programme start="20230601235000 -0300" stop="20230602022500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Transformers</title>
+  </programme>
+  <programme start="20230602022500 -0300" stop="20230602040500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Crawlspace: Em Confinamento</title>
+  </programme>
+  <programme start="20230602040500 -0300" stop="20230602060500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">O Doutrinador</title>
+  </programme>
+  <programme start="20230602060500 -0300" stop="20230602080000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">As Mães de Chico Xavier</title>
+  </programme>
+  <programme start="20230602080000 -0300" stop="20230602093000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">O Primeiro Passo</title>
+  </programme>
+  <programme start="20230602093000 -0300" stop="20230602111500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Deserto do Ouro</title>
+  </programme>
+  <programme start="20230602111500 -0300" stop="20230602130000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Os Segredos do Castelo</title>
+  </programme>
+  <programme start="20230602130000 -0300" stop="20230602143500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Apanhador de Pesadelos</title>
+  </programme>
+  <programme start="20230602143500 -0300" stop="20230602161000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Amizade Maldita</title>
+  </programme>
+  <programme start="20230602161000 -0300" stop="20230602180000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Fuga da Meia-noite</title>
+  </programme>
+  <programme start="20230602180000 -0300" stop="20230602195500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Tempo</title>
+  </programme>
+  <programme start="20230602195500 -0300" stop="20230602215500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Rota de Fuga (2013)</title>
+  </programme>
+  <programme start="20230602215500 -0300" stop="20230602220000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Preview no Pipoca</title>
+  </programme>
+  <programme start="20230602220000 -0300" stop="20230602235500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">+ Velozes + Furiosos</title>
+  </programme>
+  <programme start="20230602235500 -0300" stop="20230603014500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Vingança Fatal</title>
+  </programme>
+  <programme start="20230603014500 -0300" stop="20230603034500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Feito Na América</title>
+  </programme>
+  <programme start="20230603034500 -0300" stop="20230603054500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Esperando Por Você</title>
+  </programme>
+  <programme start="20230603054500 -0300" stop="20230603074500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">A Vida em Si</title>
+  </programme>
+  <programme start="20230603074500 -0300" stop="20230603092000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Rastro Mortal</title>
+  </programme>
+  <programme start="20230603092000 -0300" stop="20230603113000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">A Luz no Fim do Mundo</title>
+  </programme>
+  <programme start="20230603113000 -0300" stop="20230603135500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Coach Carter</title>
+  </programme>
+  <programme start="20230603135500 -0300" stop="20230603140000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Preview no Pipoca</title>
+  </programme>
+  <programme start="20230603140000 -0300" stop="20230603154500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Juntos e Enrolados</title>
+  </programme>
+  <programme start="20230603154500 -0300" stop="20230603172000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">O Mentiroso</title>
+  </programme>
+  <programme start="20230603172000 -0300" stop="20230603195500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Transformers</title>
+  </programme>
+  <programme start="20230603195500 -0300" stop="20230603220000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Hellraiser</title>
+  </programme>
+  <programme start="20230603220000 -0300" stop="20230604001000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Infiltrado</title>
+  </programme>
+  <programme start="20230604001000 -0300" stop="20230604023000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Jack Reacher: O Último Tiro</title>
+  </programme>
+  <programme start="20230604023000 -0300" stop="20230604043500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Arkansas</title>
+  </programme>
+  <programme start="20230604043500 -0300" stop="20230604064000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Magnatas do Crime</title>
+  </programme>
+  <programme start="20230604064000 -0300" stop="20230604084500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Minha Fama de Mau</title>
+  </programme>
+  <programme start="20230604084500 -0300" stop="20230604111000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Chernobyl: O Filme</title>
+  </programme>
+  <programme start="20230604111000 -0300" stop="20230604125500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Sem Controle</title>
+  </programme>
+  <programme start="20230604125500 -0300" stop="20230604144500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Agente das Sombras</title>
+  </programme>
+  <programme start="20230604144500 -0300" stop="20230604162500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Super Combo</title>
+  </programme>
+  <programme start="20230604162500 -0300" stop="20230604180500 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Super Combo: Halloween 2</title>
+  </programme>
+  <programme start="20230604180500 -0300" stop="20230604200000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Super Combo</title>
+  </programme>
+  <programme start="20230604200000 -0300" stop="20230604220000 -0300" channel="Telecine Pipoca">
+    <title lang="pt">Sessão Superestreia: Halloween Ends</title>
+  </programme>
+</tv>
